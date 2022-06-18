@@ -11,7 +11,7 @@
 {
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
 
-"spider":"https://github.com/chh818/818.github.io/blob/main/xm.jar",
+"spider":"https://chh818.github.io/xm.jar",
 
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":[
 "proxy://do=live&type=txt&ext=Y2xhbjovL3htL3R2L2xpdmUudHh0"
