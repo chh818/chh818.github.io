@@ -1,5 +1,4 @@
-// 配置地址 --> https://chh818.github.io/ts.jar
-
+// 配置地址 --> https://chh818.github.io/ts.json
 {
 "spider":"https://chh818.github.io/ts.jar",
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=Y2xhbjovL1RWQm94L3R2L3RzLnR4dA=="]}]}],
