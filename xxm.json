@@ -1,8 +1,8 @@
-// 配置地址 --> clan://localhost/TVBox/xm.json
+// 配置地址 --> https://chh818.github.io/xxm.json
 
 {
 "spider":"https://chh818.github.io/xxm.jar",
-"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=Y2xhbjovL1RWQm94L3R2L3htLnR4dA=="]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=https://chh818.github.io/xxm.txt"]}]}],
 
 
 "sites":[
