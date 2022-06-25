@@ -2,7 +2,7 @@
 
 {
 "spider":"https://chh818.github.io/xxm.jar",
-"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=https://chh818.github.io/xxm.txt"]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9jaGg4MTguZ2l0aHViLmlvL3h4bS50eHQ="]}]}],
 
 
 "sites":[
