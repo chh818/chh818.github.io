@@ -1,7 +1,7 @@
 // 配置地址 --> https://chh818.github.io/xxm.json
 
 {
-"spider":"https://chh818.github.io/xxm.jar",
+"spider":"https://wp.wangshi520.com/file.php?hash=139548b0831e49ab2921353db1fbbf49",
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9jaGg4MTguZ2l0aHViLmlvL3h4bS50eHQ="]}]}],
 
 
