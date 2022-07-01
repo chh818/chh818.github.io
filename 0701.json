@@ -2,7 +2,7 @@
 // 配置地址 --> https://chh818.github.io/0701.json
 {
 "spider":"https://chh818.github.io/0701.jar",
-"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=Y2xhbjovL1RWQm94L3R2L3RzLnR4dA=="]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cDovLzExOC4xOTAuMjQ0LjE5NS90dm1vdmllL3piLnR4dA=="]}]}],
 
 
 "sites":[
