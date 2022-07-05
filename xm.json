@@ -5,16 +5,16 @@
 // 设置 --> 当前接口配置 --> 透过扫码或浏览器访问网址 (如 http://172.16.xx.xx:9978/api.html)
 // 假设你已透过上述方式，成功进入"猫影视.接口"配置页面
 // 配置 --> 上传文件 --> 长按刚刚下载的懒人包 选取 --> 开启 --> 确认上传? --> 确定
-// 回到猫影视TV --> 设置 --> 当前接口配置 --> clan://localhost/xm/xm.json --> 确定 --> 躺平
+// 回到猫影视TV --> 设置 --> 当前接口配置 --> https://chh818.github.io/xm.json --> 确定 --> 躺平
 
 
 {
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
 
-"spider":"https://chh818.github.io/xm.jar",
+"spider":"https://chh818.github.io/74.jar",
 
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":[
-"proxy://do=live&type=txt&ext=Y2xhbjovL3htL3R2L2xpdmUudHh0"
+"proxy://do=live&type=txt&ext=aHR0cDovLzExOC4xOTAuMjQ0LjE5NS90dm1vdmllL3piLnR4dA=="
 ]}]}],
 
 
