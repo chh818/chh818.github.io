@@ -6,9 +6,9 @@
 
 
 "sites":[
-{"key":"AliPS","name":"盘搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://f0.0sm.com/node0/2022/07/862C2FDB16660902-e5539c9c425c6a97.txt"},
-{"key":"Gitcafe","name":"小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://f0.0sm.com/node0/2022/07/862C2FDB16660902-e5539c9c425c6a97.txt"},
-{"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://f0.0sm.com/node0/2022/07/862C2FDB16660902-e5539c9c425c6a97.txt"},
+{"key":"AliPS","name":"盘搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext":"aHR0cDovL2YwLjBzbS5jb20vbm9kZTAvMjAyMi8wNy84NjJDMkZEQjE2NjYwOTAyLWU1NTM5YzljNDI1YzZhOTcudHh0"},
+{"key":"Gitcafe","name":"小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"aHR0cDovL2YwLjBzbS5jb20vbm9kZTAvMjAyMi8wNy84NjJDMkZEQjE2NjYwOTAyLWU1NTM5YzljNDI1YzZhOTcudHh0"},
+{"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"aHR0cDovL2YwLjBzbS5jb20vbm9kZTAvMjAyMi8wNy84NjJDMkZEQjE2NjYwOTAyLWU1NTM5YzljNDI1YzZhOTcudHh0"},
 {"key":"csp_SP360","name":"🎾360(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kuaikan","name":"👀快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kunyu77","name":"👒七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
