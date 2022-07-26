@@ -6,7 +6,7 @@
 "sites": [   
     {
       "key": "精炼工厂",
-      "name": "【精工长】",
+      "name": "精工长",
       “type”：0，
       "api": "https://jgczyapi.com/home/cjapi/kld2/mc/vod/xml",
       “searchable”：1，
