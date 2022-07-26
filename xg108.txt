@@ -7,11 +7,11 @@
     {
       "key": "精炼工厂",
       "name": "【精工长】",
-      “类型”：0，
+      “type”：0，
       "api": "https://jgczyapi.com/home/cjapi/kld2/mc/vod/xml",
-      “可搜索”：1，
-      “快速搜索”：1，
-      “可过滤”：0
+      “searchable”：1，
+      “quickSearch”：1，
+      “filterable”：0
     }, 
     {
       "key": "老鸭",
