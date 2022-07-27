@@ -40,7 +40,7 @@
       "quickSearch": 1,
       "filterable": 0
     },
-	    {
+	   // {
       "key": "乐鱼",
       "name": "乐鱼",
       "type": 1,
@@ -49,8 +49,8 @@
       "quickSearch": 1,
       "filterable": 0
     },
-    {"key":"*博天堂","name":"*博天堂","type":0,"api":"http://bttcj.com/inc/sapi.php","searchable":0,"quickSearch":0},
-    {
+   // {"key":"*博天堂","name":"*博天堂","type":0,"api":"http://bttcj.com/inc/sapi.php","searchable":0,"quickSearch":0},
+   // {
       "key": "探探",
       "name": "探探",
       "type": 1,
@@ -59,7 +59,7 @@
       "quickSearch": 1,
       "filterable": 0
     },
-    {
+    //{
       "key": "乐播",
       "name": "乐播",
       "type": 1,
@@ -68,7 +68,7 @@
       "quickSearch": 1,
       "filterable": 0
     },
-    {
+   // {
       "key": "佳丽",
       "name": "佳丽",
       "type": 1,
