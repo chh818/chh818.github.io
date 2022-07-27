@@ -25,7 +25,7 @@
      {
       "key": "美少女",
       "name": "无名",
-      "type": 1,
+      "type": 0,
       "api": "https://www.msnii.com/api/xml.php",
       "searchable": 1,
       "quickSearch": 1,
