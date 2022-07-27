@@ -14,9 +14,9 @@
       "filterable": 0
     }, 
     {
-      "key"："91md"，
-      "name"："91"，
-      "type"：1，
+      "key": "91md",
+      "name": "91",
+      "type": 1,
       "api": "https://91md.me/api.php/provide/vod/from/mdm3u8/",
       "searchable": 1,
       "quickSearch": 1,
