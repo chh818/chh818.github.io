@@ -23,6 +23,15 @@
       "filterable": 0
     },
      {
+      "key": "CK资源",
+      "name": "CK资源",
+      "type": 1,
+      "api": "http://www.feifei67.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+     {
       "key": "美少女",
       "name": "无名",
       "type": 0,
