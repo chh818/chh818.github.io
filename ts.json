@@ -4,7 +4,7 @@
 
 
 {
-	"spider": "https://gitea.com/Yoursmile/TVBox/raw/branch/main/XC0822.jar;md5;5657D340224850CAD4E6FC6247CDDE49",
+	"spider": "http://52bsj.vip:81/api/v3/file/get/33500/0811.jar?sign=JaOcBVu2zahzH8NshH0BBUigMswWrSAzzxIgauI0IIs%3D%3A0;md5;4BB140374F74FC87B306F1E5A6D8BBEA",
 	"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 	"lives": [{
 		"group": "redirect",
