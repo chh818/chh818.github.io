@@ -1,6 +1,6 @@
 //{"key":"key_〔资源名称〕","name":"资源名称","type":0,"api":"csp_〔jar内文件名称〕","searchable":1,"quickSearch":1,"filterable":0,"jar":"〔jar文件地址〕","ext":"〔txt json文件地址〕","playUrl":"〔播放解析地址〕","categories":["〔自定义资源列表〕","〔自定义资源列表〕"] },
 {
-"spider":"https://chh818.github.io/Mao0820.jar",
+"spider":"https://chh818.github.io/0827.jar",
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=Y2xhbjovL3R2Ym94L3R2L2xpdmUudHh0"]}]}],
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 "sites":[
