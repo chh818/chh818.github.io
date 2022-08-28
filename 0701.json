@@ -43,15 +43,6 @@
 			"quickSearch": 1,
 			"filterable": 1
 		},
-		//{
-			"key": "csp_Wmkk",
-			"name": "👁️完美看看",
-			"api": "csp_Wmkk",
-			"type": 3,
-			"filterable": 1,
-			"quickSearch": 1,
-			"searchable": 1
-		},
 		{
 			"key": "Ikan",
 			"name": "💘爱看",
@@ -60,7 +51,8 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1
-		}, {
+		}, 
+	        {
 			"key": "天堂资源",
 			"name": "📌天堂资源",
 			"type": 1,
@@ -68,16 +60,7 @@
 			"searchable": 1,
 			"quickSearch": 1
 		}, 
-		//{
-			"key": "追剧喵",
-			"name": "🐈追剧喵",
-			"type": 3,
-			"api": "csp_ZJMiao",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		}, 
- {
+                {
 			"key": "在线之家",
 			"name": "🏠在线之家",
 			"type": 3,
@@ -86,18 +69,6 @@
 			"quickSearch": 1,
 			"filterable": 1
 		},
-		
-		//{
-			"key": "Lezhu_spider",
-			"name": "🐷乐猪影视",
-			"api": "csp_Lezhu",
-			"type": 3,
-			"filterable": 1,
-			"quickSearch": 1,
-			"searchable": 1,
-			"ext": ""
-		},
-
 		{
 			"key": "神马影院",
 			"name": "🐎神马影院",
@@ -107,25 +78,6 @@
 			"quickSearch": 1,
 			"filterable": 1
 		},
-		//{
-			"key": "csp_Bttoo",
-			"name": "🥂两个BT",
-			"type": 3,
-			"api": "csp_Bttoo",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
-		//{
-			"key": "csp_Mjxq",
-			"name": "🌏美剧星球",
-			"type": 3,
-			"api": "csp_Mjxq",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
-
 		{
 			"key": "csp_CZSPP",
 			"name": "🏭厂长资源",
@@ -135,15 +87,16 @@
 			"quickSearch": 1,
 			"filterable": 0
 		},
-	 {
-			"key": "csp_Auete",
+	        {	
+		       "key": "csp_Auete",
 			"name": "🐼Auete",
 			"type": 3,
 			"api": "csp_Auete",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1
-		}, {
+		},
+	        {
 			"key": "csp_Cokemv",
 			"name": "⛲Cokemv",
 			"type": 3,
@@ -151,15 +104,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1
-		}, //{
-			"key": "3EDY",
-			"name": "☘️3EDY(EXO)",
-			"type": 3,
-			"api": "csp_EEEDY",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
+		}, 
 		{
 			"key": "csp_剧荒",
 			"name": "🎭剧荒",
@@ -169,72 +114,6 @@
 			"quickSearch": 1,
 			"filterable": 1
 		},
-		//{
-			"key": "csp_Tkys",
-			"name": "📡天空影视",
-			"type": 3,
-			"api": "csp_Tkys",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
-		//{
-			"key": "csp_QQ",
-			"name": "🐧吾爱腾腾",
-			"type": 3,
-			"api": "csp_QQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		}, //{
-			"key": "csp_MGTV",
-			"name": "🥭吾爱太忙",
-			"type": 3,
-			"api": "csp_MGTV",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		}, //{
-			"key": "csp_IQIYI",
-			"name": "🥝吾爱齐齐",
-			"type": 3,
-			"api": "csp_IQIYI",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
-
-//{
-			"key": "youku",
-			"name": "👑吾爱酷酷",
-			"type": 0,
-			"api": "https://www.bajiezy.xyz/api.php/provide/vod/from/youku/at/xml/",
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 0,
-			"categories": ["综艺", "动漫", "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "国产剧", "港台剧", "日韩剧", "欧美剧", "惊悚片", "犯罪片", "冒险片", "悬疑片", "动画片", "武侠片", "奇幻片", "少儿", "其他片"]
-		},
-		//{
-			"key": "PpTV",
-			"name": "📺吾爱PP",
-			"type": 0,
-			"api": "https://www.bajiezy.xyz/api.php/provide/vod/from/pptv/at/xml/",
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 0,
-			"categories": ["综艺", "动漫", "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "国产剧", "港台剧", "日韩剧", "欧美剧", "惊悚片", "犯罪片", "冒险片", "悬疑片", "动画片", "武侠片", "少儿", "其他片"]
-		},
-		//{
-			"key": "souhu",
-			"name": "🦊吾爱白狐",
-			"type": 0,
-			"api": "https://www.bajiezy.xyz/api.php/provide/vod/from/sohu/at/xml/",
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 0,
-			"categories": ["综艺", "动漫", "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "国产剧", "港台剧", "日韩剧", "欧美剧", "惊悚片", "犯罪片", "悬疑片", "动画片", "武侠片", "奇幻片", "少儿", "其他片"]
-		},
-		
 
 
 {"key": "Kuaikan","name": " 🎴吾爱快看(SP)","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
