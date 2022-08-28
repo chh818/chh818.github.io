@@ -16,7 +16,7 @@
 //{"key":"KanSJ_spider","name":"🛰️看视界","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 
 
-{"key": "Gitcafe","name": "📜小纸条仅支持Pluto)","type": 3,"api": "csp_Gitcafe","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "3a49cf29cf20410997247c6eb4509be9", "spider":"https://raw.githubusercontent.com/rabbitvan/TVBOX-selfuse-lib/master/jar/公众号吾爱有三日月与卿0823.jar"},
+//{"key": "Gitcafe","name": "📜小纸条仅支持Pluto)","type": 3,"api": "csp_Gitcafe","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "3a49cf29cf20410997247c6eb4509be9", "spider":"https://raw.githubusercontent.com/rabbitvan/TVBOX-selfuse-lib/master/jar/公众号吾爱有三日月与卿0823.jar"},
 
 //{"key":"FindZY","name":"💭阿里4k仅支持Pluto)","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext": "3a49cf29cf20410997247c6eb4509be9", "spider":"https://raw.githubusercontent.com/rabbitvan/TVBOX-selfuse-lib/master/jar/公众号吾爱有三日月与卿0823.jar"},
 
@@ -43,7 +43,7 @@
 			"quickSearch": 1,
 			"filterable": 1
 		},
-		{
+		//{
 			"key": "csp_Wmkk",
 			"name": "👁️完美看看",
 			"api": "csp_Wmkk",
@@ -68,7 +68,7 @@
 			"searchable": 1,
 			"quickSearch": 1
 		}, 
-		{
+		//{
 			"key": "追剧喵",
 			"name": "🐈追剧喵",
 			"type": 3,
@@ -87,7 +87,7 @@
 			"filterable": 1
 		},
 		
-		{
+		//{
 			"key": "Lezhu_spider",
 			"name": "🐷乐猪影视",
 			"api": "csp_Lezhu",
@@ -107,7 +107,7 @@
 			"quickSearch": 1,
 			"filterable": 1
 		},
-		{
+		//{
 			"key": "csp_Bttoo",
 			"name": "🥂两个BT",
 			"type": 3,
@@ -116,7 +116,7 @@
 			"quickSearch": 1,
 			"filterable": 1
 		},
-		{
+		//{
 			"key": "csp_Mjxq",
 			"name": "🌏美剧星球",
 			"type": 3,
@@ -151,7 +151,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1
-		}, {
+		}, //{
 			"key": "3EDY",
 			"name": "☘️3EDY(EXO)",
 			"type": 3,
@@ -169,7 +169,7 @@
 			"quickSearch": 1,
 			"filterable": 1
 		},
-		{
+		//{
 			"key": "csp_Tkys",
 			"name": "📡天空影视",
 			"type": 3,
@@ -178,7 +178,7 @@
 			"quickSearch": 1,
 			"filterable": 1
 		},
-		{
+		//{
 			"key": "csp_QQ",
 			"name": "🐧吾爱腾腾",
 			"type": 3,
@@ -186,7 +186,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1
-		}, {
+		}, //{
 			"key": "csp_MGTV",
 			"name": "🥭吾爱太忙",
 			"type": 3,
@@ -194,7 +194,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1
-		}, {
+		}, //{
 			"key": "csp_IQIYI",
 			"name": "🥝吾爱齐齐",
 			"type": 3,
@@ -204,7 +204,7 @@
 			"filterable": 1
 		},
 
-{
+//{
 			"key": "youku",
 			"name": "👑吾爱酷酷",
 			"type": 0,
@@ -214,7 +214,7 @@
 			"filterable": 0,
 			"categories": ["综艺", "动漫", "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "国产剧", "港台剧", "日韩剧", "欧美剧", "惊悚片", "犯罪片", "冒险片", "悬疑片", "动画片", "武侠片", "奇幻片", "少儿", "其他片"]
 		},
-		{
+		//{
 			"key": "PpTV",
 			"name": "📺吾爱PP",
 			"type": 0,
@@ -224,7 +224,7 @@
 			"filterable": 0,
 			"categories": ["综艺", "动漫", "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "国产剧", "港台剧", "日韩剧", "欧美剧", "惊悚片", "犯罪片", "冒险片", "悬疑片", "动画片", "武侠片", "少儿", "其他片"]
 		},
-		{
+		//{
 			"key": "souhu",
 			"name": "🦊吾爱白狐",
 			"type": 0,
