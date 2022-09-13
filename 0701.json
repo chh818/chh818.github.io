@@ -2,7 +2,7 @@
 // 配置地址 --> https://chh818.github.io/0701.json
 {
 "spider":"https://chh818.github.io/wuai.jar",
-"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cDovLzUyYnNqLnZpcDo4MS9hcGkvdjMvZmlsZS9nZXQvNzYzL2xpdmUudHh0P3NpZ249ODdCVEdUMV82QU9yeTdGUHd5X3V1eEZUdjJXY2I5YURNajQ2ckRkUlREOCUzRCUzQTA="]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9jaGg4MTguZ2l0aHViLmlvL3pi"]}]}],
 
 
 "sites":[
