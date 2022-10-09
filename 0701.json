@@ -1,6 +1,6 @@
 {
 "spider": "https://raw.iqiq.io/2hacc/TVBox/main/jar/tvbox.jar;md5;930fa11b2dc2f931ccca9dd33e34afac",
-"lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20veWFueWkxMS9UVkIvcmF3L2JyYW5jaC9tYWluL2xpdmUudHh0"]}]}],
+"lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cDovL2Z0cDYyODQ5MjguaG9zdDEwOC5hYmVpeXVuLmNuL2xpdmUudHh0"]}]}],
 
 "sites":[
 
