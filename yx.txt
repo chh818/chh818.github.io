@@ -35,7 +35,7 @@
 
 
 //0826
-"spider":"https://raw.githubusercontent.com/muxinshur/TVBOX-selfuse-lib/master/jar/公众号吾爱有三日月与卿0909.jar",
+"spider":"https://raw.githubusercontent.com/muxinshur/TVBOX-selfuse-lib/master/jar/gg.jar",
 
 
 
