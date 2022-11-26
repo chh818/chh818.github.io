@@ -8,7 +8,7 @@
 {
   "spider":"https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/jar/tvbox.png;md5;808da8066ef19ba41dc4966f588e938d",
   "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
-  "lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuaXFpcS5pby8yaGFjYy9UVkJveC9tYWluL2xpdmUvbGl2ZS50eHQ="]}]}],
+  "lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly94bi0tbTdyNDEyYWR2YjkyajIxc3Q2NWEudGsvbGl2ZS50eHQ="]}]}],
   "sites":[
     {"key":"csp_Kunyu77","name":"七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Kuaikan","name":"快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
