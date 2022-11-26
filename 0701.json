@@ -11,17 +11,17 @@
 
 "sites": [
 //設定日期版本
-{"key":"date","name":"🐘🐘 0814 🐘🐘","type":3,"api":"csp_Tangrenjie","searchable":0,"quickSearch":0,"filterable":1},
-{"key":"fffollow","name":"👍0814","type":4,"api":"https://raw.githubusercontent.com/c120487/00/main/00title0814.json","searchable":0,"quickSearch":0,"filterable":0},
+//{"key":"date","name":"🐘🐘 0814 🐘🐘","type":3,"api":"csp_Tangrenjie","searchable":0,"quickSearch":0,"filterable":1},
+//{"key":"fffollow","name":"👍0814","type":4,"api":"https://raw.githubusercontent.com/c120487/00/main/00title0814.json","searchable":0,"quickSearch":0,"filterable":0},
 
 //
 //
 //
 //Basic sites,filterable
-{"key":"ffDB00","name":"🗂豆瓣(可篩選,有評分)","type":4,"api":"http://top.fuqizhishi.com/vod","searchable":0,"quickSearch":0,"filterable":1},
-{"key":"ffDB01","name":"🗂豆瓣(備用)","type":4,"api":"https://t4.secan.icu/vod","searchable":0,"quickSearch":0,"filterable":0},
+//{"key":"ffDB00","name":"🗂豆瓣(可篩選,有評分)","type":4,"api":"http://top.fuqizhishi.com/vod","searchable":0,"quickSearch":0,"filterable":1},
+//{"key":"ffDB01","name":"🗂豆瓣(備用)","type":4,"api":"https://t4.secan.icu/vod","searchable":0,"quickSearch":0,"filterable":0},
 
-{"key":"ffIf101","name":"🗂If101(可篩選)","type":3,"api":"csp_If101","searchable":0,"quickSearch":0,"filterable":1},
+//{"key":"ffIf101","name":"🗂If101(可篩選)","type":3,"api":"csp_If101","searchable":0,"quickSearch":0,"filterable":1},
 {"key":"ffBd","name":"🗂哔嘀(可篩選,有日期)","type":3,"api":"csp_Bdys01","searchable":0,"quickSearch":0,"filterable":1},
 {"key":"ffAPPTT","name":"🍿图图(多節點)","type":3,"api":"csp_AppTT","searchable":0,"quickSearch":0,"filterable":1},
 {"key":"ffMBO","name":"🍿MBO(多節點,有年份)","type":0,"api":"https://www.mbomovie.com/api.php/provide/vod/at/xml/","searchable":0,"quickSearch":0,"filterable":1},
