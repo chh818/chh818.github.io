@@ -16,11 +16,11 @@
 		{"key":"csp_SP360","name":"360影视（官解）","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 		{"key":"csp_xBPQ_乐猪影视","name":"乐猪影视（可搜）","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://jihulab.com/zzzlllmmm/TVBOXZY/-/raw/main/xBPQ/乐猪.json"},
 		 //可用，但是分辨率低不能搜索{"key": "Lezhu_spider","name": "乐猪影视（SP）","api": "csp_Lezhu","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1},   
-  //{"key": "xxyy","name": "小路影视（SP）","type":1,"api":"http://47.108.39.249:4567/api.php/provide/vod","searchable": 1,"quickSearch": 1,"filterable": 1,"fl":"520520","categories": ["4K专区","动漫","科幻","电影","泰剧","综艺","连续剧","香港剧","韩国剧","台湾剧","日本剧"]},
-  //{"key": "xxyy","name": "小路影视（SP）","type":1,"api":"http://47.108.39.249:4567/api.php/provide/vod","searchable": 1,"quickSearch": 1,"filterable": 1,"fl":"520520","categories": ["4K专区","动漫","科幻","电影","泰剧","综艺","连续剧","香港剧","韩国剧","台湾剧","日本剧"
+  {"key": "xxyy","name": "小路影视（SP）","type":1,"api":"http://47.108.39.249:4567/api.php/provide/vod","searchable": 1,"quickSearch": 1,"filterable": 1,"fl":"520520","categories": ["4K专区","动漫","科幻","电影","泰剧","综艺","连续剧","香港剧","韩国剧","台湾剧","日本剧"]},
+  {"key": "xxyy","name": "小路影视（SP）","type":1,"api":"http://47.108.39.249:4567/api.php/provide/vod","searchable": 1,"quickSearch": 1,"filterable": 1,"fl":"520520","categories": ["4K专区","动漫","科幻","电影","泰剧","综艺","连续剧","香港剧","韩国剧","台湾剧","日本剧"
 ]},
 
-//{"key": "xcys","name": "星辰影视（SP）","type":1,"api":"http://tv.skeyer.cn/api.php/provide/vod","searchable": 1,"quickSearch": 1,"filterable": 1,"fl":"520520","categories": ["电影","电视剧","综艺","动漫"
+{"key": "xcys","name": "星辰影视（SP）","type":1,"api":"http://tv.skeyer.cn/api.php/provide/vod","searchable": 1,"quickSearch": 1,"filterable": 1,"fl":"520520","categories": ["电影","电视剧","综艺","动漫"
 ]},
  {"key":"js豆瓣","name":"豆瓣热播┃D首页","type":3,"api":"https://jihulab.com/zzzlllmmm/TVBOXZY/-/raw/main/js/drpy2.min.js","ext":"https://jihulab.com/zzzlllmmm/TVBOXZY/-/raw/main/js/js_drpy.js","searchable": 0,"quickSearch": 0,"filterable": 0},
 //{"key":"t4豆瓣","name":"豆瓣荐片┃T首页","type":4,"api":"https://jihulab.com/zzzlllmmm/TVBOXZY/-/raw/main/js/vod","searchable": 0,"quickSearch": 0,"filterable": 0},
