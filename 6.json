@@ -1,7 +1,7 @@
 {"spider":"https://framagit.org/00700/tvbox/-/raw/main/Spider/vvebo.jar;md5;4BD2275690262E2B338920201A674539",
 "wallpaper":"https://framagit.org/00700/tvbox/-/raw/main/Wallpaper/03.png",
 //"lives":[{"name":"直播","type":0,"url":"https://framagit.org/00700/tvbox/-/raw/main/live.txt"}],
-"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9jaGg4MTguZ2l0aHViLmlvL3poaWJvLnR4dA=="]}] }]
+"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9jaGg4MTguZ2l0aHViLmlvL3poaWJvLnR4dA=="]}] }],
 "sites":[
 {"key":"csp_Kunyu77","name":"推荐┃酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Apple","name":"影视┃小苹果源","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
