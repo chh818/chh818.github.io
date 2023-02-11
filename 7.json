@@ -159,7 +159,7 @@
 	],
 	"sites": [{
 			"key": "js豆瓣1",
-			"name": "🤖新豆瓣（由于阿里token原因此接口不想在维护了，新接口仅限亲友使用，亲友联系我要地址！谢谢）",
+			"name": "🤖新豆瓣",
 			"type": 3,
 			"api": "https://agit.ai/767820774/TVBOXZY/raw/branch/main/JS/lib/drpy.min.js",
 			"ext": "http://w.g9.pub:66/2251087869/smallmi/js/drpy.js",
@@ -169,7 +169,7 @@
 		},
 		{
 			"key": "dr_豆瓣",
-			"name": "🤖旧豆瓣（由于阿里token原因此接口不想在维护了，新接口仅限亲友使用，亲友联系我要地址！谢谢）",
+			"name": "🤖旧豆瓣",
 			"type": 4,
 			"api": "https://t4.secan.icu/vod?sites=all&ali_token=&douban=",
 			"searchable": 0,
@@ -178,7 +178,7 @@
 		},
 		{
 			"key": "js360",
-			"name": "🐼影视聚（由于阿里token原因此接口不想在维护了，新接口仅限亲友使用，亲友联系我要地址！谢谢）",
+			"name": "🐼影视聚",
 			"type": 3,
 			"api": "https://agit.ai/767820774/TVBOXZY/raw/branch/main/JS/lib/drpy.min.js",
 			"ext": "http://w.g9.pub:66/2251087869/smallmi/js/360%E5%BD%B1%E8%A7%86.js",
@@ -188,7 +188,7 @@
 		},
 		{
             "key": "YQK_spider",
-            "name": "😜一起看（由于阿里token原因此接口不想在维护了，新接口仅限亲友使用，亲友联系我要地址！谢谢）",
+            "name": "😜一起看",
             "api": "csp_YQKAPP",
             "type": 3,
             "filterable": 1,
