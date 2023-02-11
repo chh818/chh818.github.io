@@ -157,16 +157,7 @@
 		"bilibili",
 		"csm3u8"
 	],
-	"sites": [{
-			"key": "js豆瓣1",
-			"name": "🤖新豆瓣",
-			"type": 3,
-			"api": "https://agit.ai/767820774/TVBOXZY/raw/branch/main/JS/lib/drpy.min.js",
-			"ext": "http://w.g9.pub:66/2251087869/smallmi/js/drpy.js",
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 1
-		},
+	"sites": [
 		{
 			"key": "dr_豆瓣",
 			"name": "🤖旧豆瓣",
@@ -186,28 +177,8 @@
 			"quickSearch": 1,
 			"filterable": 1
 		},
-		{
-            "key": "YQK_spider",
-            "name": "😜一起看",
-            "api": "csp_YQKAPP",
-            "type": 3,
-            "filterable": 1,
-            "playerType": 2,
-            "quickSearch": 1,
-            "searchable": 1,
-            "ext": "https://api-tx.shumaxc.xyz",
-            "jar": "http://我不是.肥猫.love:63/Jar/qq2.jar;md5;4E872E4AA2D4F8B6F4FFBC11E6B3E1A1"
-        },
-		{
-			"key": "AppTT",
-			"name": "🦁图图",
-			"type": "3",
-			"api": "csp_Dora",
-			"searchable": "1",
-			"quickSearch": "1",
-			"filterable": "1",
-			"ext": "110c922de7d69804467fb83d3bb664b5"
-		},
+		
+		
 		{
 			"key": "Kunyu",
 			"name": "🐻‍❄️七七",
