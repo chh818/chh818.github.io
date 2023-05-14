@@ -1,7 +1,7 @@
 {
 //Update:2022-10-25 16:13:22.800317
 
-"spider":"http://121.199.23.234:8080/ipfs/QmcJ5UyYrRx4SkACmaNqPeR67UK6Bz7QNTxwmrZAt2Q17y?filename=custom.PNG;md5;d65f14e977a430da2b0d1d464884a840",
+"spider":"https://download.kstore.space/download/2863/custom_spider.jar;md5;FE6082A03258C249F6E257A75041C7EC",
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9pcHR2aW5kZXguY29tL3R2LnR4dA=="]}]}],
 
