@@ -1,7 +1,7 @@
 {
   "spider":"https://raw.githubusercontent.com/Guard-H/tvbox/main/jar/f.jar",
   "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
-  "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL1lvdXJzbWlsZTcvVFZCb3gvcmF3L2JyYW5jaC9tYXN0ZXIvbGl2ZS50eHQ="]}]}],
+  "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9jaGg4MTguZ2l0aHViLmlvL3piLnR4dA=="]}]}],
 
 "sites":[
 {"key":"YQK_spider","name":"一起看","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"8e3aefcba838d8dc5102ac786719d837","jar":"https://raw.githubusercontent.com/Guard-H/tvbox/main/jar/03.txt"},
