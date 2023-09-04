@@ -1,396 +1,177 @@
-#EXTM3U x-tvg-url="https://github.com/botallen/epg/releases/download/latest/epg.xml"
-
-#########################################################################
-#      ____            _           _   __  __                           #
-#     |  _ \ _ __ ___ (_) ___  ___| |_|  \/  | ___   ___  ___  ___      #
-#     | |_) | '__/ _ \| |/ _ \/ __| __| |\/| |/ _ \ / _ \/ __|/ _ \     #
-#     |  __/| | | (_) | |  __/ (__| |_| |  | | (_) | (_) \__ \  __/     #
-#     |_|   |_|  \___// |\___|\___|\__|_|  |_|\___/ \___/|___/\___|     #
-#                   |__/                                                #
-#                                  >> https://github.com/Nuttypro69     #
-#########################################################################
-
-
-#EXTINF:-1 group-title="Latino" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2F1tR4HSNaLaM%2Fmaxresdefault.jpg&f=1&nofb=1" tvg-id="", JOSÉ GUTIÉRREZ EN CDN
-https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
-
-#EXTINF:-1 group-title="Latino" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.periodistadigital.com%2Fwp-content%2Fuploads%2F2018%2F08%2Fnoticias-sin.jpg&f=1&nofb=1" tvg-id="", Noticias SIN
-https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
-
-#EXTINF:-1 group-title="Latino" tvg-logo="https://yt3.ggpht.com/z3UpMxWk42EQHvqK5YWJyLYgp6B7IGWhsjZ1ozT1Z7kUxcqiMhUpdfnHVKoCynrXq6-Ei-pa=s88-c-k-c0x00ffffff-no-rj" tvg-id="", La Cosa Como Es con Edith Febles
-https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
-
-#EXTINF:-1 group-title="Latino" tvg-logo="https://yt3.ggpht.com/z3UpMxWk42EQHvqK5YWJyLYgp6B7IGWhsjZ1ozT1Z7kUxcqiMhUpdfnHVKoCynrXq6-Ei-pa=s88-c-k-c0x00ffffff-no-rj" tvg-id="", La Cosa Como Es con Edith Febles
-https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
-
-#EXTINF:-1 group-title="Latino" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flive-tv-channels.org%2Fpt-data%2Fuploads%2Flogo%2Fdo-telemicro-canal-5-1233.jpg&f=1&nofb=1" tvg-id="", Telemicro Canal 5
-https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
-
-#EXTINF:-1 group-title="Latino" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flive-tv-channels.org%2Fpt-data%2Fuploads%2Flogo%2Fdo-telemicro-canal-5-1233.jpg&f=1&nofb=1" tvg-id="", Telemicro Canal 5
-https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
-
-#EXTINF:-1 group-title="Latino" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRZvNYxp_lu4rC57qR0klDIM1UD6MFvHTZhKiXUFTU=s48-c-k-c0x00ffffff-no-rj" tvg-id="", NTelemicro5
-https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
-
-#EXTINF:-1 group-title="Latino" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRZvNYxp_lu4rC57qR0klDIM1UD6MFvHTZhKiXUFTU=s48-c-k-c0x00ffffff-no-rj" tvg-id="", NTelemicro5
-https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
-
-#EXTINF:-1 group-title="Latino" tvg-logo="https://yt3.ggpht.com/QPkZoQpYl0PeCuCL399RwZk3BP54VWvWFhxtBfEG-tqbHh3IBaKT6srEo9A7APJo-Uq8sp4F=s88-c-k-c0x00ffffff-no-rj" tvg-id="", Color Visión Canal 9
-https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
-
-#EXTINF:-1 group-title="Latino" tvg-logo="https://yt3.ggpht.com/QPkZoQpYl0PeCuCL399RwZk3BP54VWvWFhxtBfEG-tqbHh3IBaKT6srEo9A7APJo-Uq8sp4F=s88-c-k-c0x00ffffff-no-rj" tvg-id="", Color Visión Canal 9
-https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
-
-#EXTINF:-1 group-title="Latino" tvg-logo="https://yt3.ggpht.com/hiwCM98wKPL3eV5tIpL3IMxm1ta8D0inN9zSRTsCDftCRIg7TKncaUVxECYnwnUFo31lOgutwA=s48-c-k-c0x00ffffff-no-rj" tvg-id="", Luna TV en Vivo
-https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
-
-#EXTINF:-1 group-title="Latino" tvg-logo="https://yt3.ggpht.com/hiwCM98wKPL3eV5tIpL3IMxm1ta8D0inN9zSRTsCDftCRIg7TKncaUVxECYnwnUFo31lOgutwA=s48-c-k-c0x00ffffff-no-rj" tvg-id="", Luna TV en Vivo
-https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
-
-#EXTINF:-1 group-title="Latino" tvg-logo="https://yt3.ggpht.com/dHe_039iZq0xbTmKffhZ42AB4Vcs8k8UE2eJmsl41fYf93oI8W2JBXOZS2uVIvdfBFtV6KvA_g=s88-c-k-c0x00ffffff-no-rj" tvg-id="", La Telerealidad de Iván Ruiz
-https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
-
-#EXTINF:-1 group-title="Latino" tvg-logo="https://yt3.ggpht.com/dHe_039iZq0xbTmKffhZ42AB4Vcs8k8UE2eJmsl41fYf93oI8W2JBXOZS2uVIvdfBFtV6KvA_g=s88-c-k-c0x00ffffff-no-rj" tvg-id="", La Telerealidad de Iván Ruiz
-https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
-
-#EXTINF:-1 group-title="Latino" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLT7ZtmDrxATplotX1fl8x53PDsRyYeU0rlQlgpInm0=s48-c-k-c0x00ffffff-no-rj" tvg-id="", NTN24
-https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
-
-#EXTINF:-1 group-title="Latino" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLT7ZtmDrxATplotX1fl8x53PDsRyYeU0rlQlgpInm0=s48-c-k-c0x00ffffff-no-rj" tvg-id="", NTN24
-https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
-
-#EXTINF:-1 group-title="Latino" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FF2b7qyM-3WI%2Fhqdefault.jpg&f=1&nofb=1" tvg-id="", DW Español
-https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
-
-#EXTINF:-1 group-title="Latino" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQNLNQDVQoMzltR9cDhYtVi4T7eOfbrP2V7dpH4yw=s88-c-k-c0x00ffffff-no-rj" tvg-id="", Venevision TV
-https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
-
-#EXTINF:-1 group-title="Latino" tvg-logo="https://yt3.ggpht.com/5CHtzoGHj1HV6XbIs8hoImcwjXrrnk48RY11vZGEAUovi_JnVZUiA1ZTcRa8BIieT4oF7_QbX7A=s48-c-k-c0x00ffffff-no-rj" tvg-id="", Azteca Noreste Monterrey Nuevo León
-https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
-
-#EXTINF:-1 group-title="Latino" tvg-logo="https://yt3.ggpht.com/5CHtzoGHj1HV6XbIs8hoImcwjXrrnk48RY11vZGEAUovi_JnVZUiA1ZTcRa8BIieT4oF7_QbX7A=s48-c-k-c0x00ffffff-no-rj" tvg-id="", Azteca Noreste Monterrey Nuevo León
-https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
-
-#EXTINF:-1 group-title="Latino" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSxx6wPZDlXdXllLfgSMl0rcHseeihrCZX1U4zgwg=s48-c-k-c0x00ffffff-no-rj" tvg-id="", VPItv  Ve
-https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
-
-#EXTINF:-1 group-title="Latino" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSxx6wPZDlXdXllLfgSMl0rcHseeihrCZX1U4zgwg=s48-c-k-c0x00ffffff-no-rj" tvg-id="", VPItv Ve
-https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
-
-#EXTINF:-1 group-title="Latino" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fyt3.ggpht.com%2Fa%2FAGF-l790QCWpgPDcehyjzfhDKe2MqcuwGJc6HbUR4Q%3Ds900-c-k-c0xffffffff-no-rj-mo&f=1&nofb=1" tvg-id="", Meganoticias
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1693825345/ei/4WT1ZNi0NMCm_9EPopan-Ao/ip/20.49.36.20/id/HE-KRYzq840.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/spc/UWF9f8NKZ8LR23exSEqJo68bcKBHWUEoH9M5M9wicQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350017/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgCmwFwo-AhuXGOPB8xJWcZbA8dKtKnczRPoYhButmJkICIAqbwnRNGxMAIr_hd5c0W56aw03ZnBXhEk-K1YeGlNW9/file/index.m3u8
-
-#EXTINF:-1 group-title="Latino" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLR7bqk5Na_4EadU3tKgOi5b9jRifERvtJ6EiSY9vQ=s48-c-k-c0x00ffffff-no-rj" tvg-id="", T13 EN
-https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
-
-#EXTINF:-1 group-title="Latino" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLR7bqk5Na_4EadU3tKgOi5b9jRifERvtJ6EiSY9vQ=s48-c-k-c0x00ffffff-no-rj" tvg-id="", T13 EN
-https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
-
-#EXTINF:-1 group-title="Latino" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSUe9jIzIfdb0yoCPlzMWThMyTg7uBO2GS_H7mF6wo=s48-c-k-c0x00ffffff-no-rj" tvg-id="", 24horas.cl
-https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
-
-#EXTINF:-1 group-title="Latino" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSUe9jIzIfdb0yoCPlzMWThMyTg7uBO2GS_H7mF6wo=s48-c-k-c0x00ffffff-no-rj" tvg-id="", 24horas.cl
-https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
-
-#EXTINF:-1 group-title="Latino" tvg-logo="https://yt3.ggpht.com/EGbgl1gHSxzJPjRyxuKg2pypyDsV8fTJQ-BR6wJw41XRoCeEVOjAnmth_E7Z2neruFpTGC-t=s88-c-k-c0x00ffffff-no-rj" tvg-id="", Noticias Caracol
-https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
-
-#EXTINF:-1 group-title="Latino" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTm6RoVYVAWhnPI4yxPIqQLR1BzylEoI9ZlY1j5Tg=s48-c-k-c0x00ffffff-no-rj" tvg-id="", Televisa Tijuana Oficial
-https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
-
-#EXTINF:-1 group-title="Latino" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTm6RoVYVAWhnPI4yxPIqQLR1BzylEoI9ZlY1j5Tg=s48-c-k-c0x00ffffff-no-rj" tvg-id="", Televisa Tijuana Oficial
-https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
-
-#EXTINF:-1 group-title="Latino" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRmmKfO1elXXd35esMKADHT1pwz6e-JLpQrO0Do=s88-c-k-c0x00ffffff-no-rj" tvg-id="", Televisa Monterrey
-https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
-
-#EXTINF:-1 group-title="Latino" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSQLi-YQ5nyYYmxkdA8pBkJIql9s_fCRZd2_yaC2A=s88-c-k-c0x00ffffff-no-rj" tvg-id="", Telediario Canal 6 Monterrey
-https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
-
-#EXTINF:-1 group-title="Latino" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQ1uIxB2HJoa_GXZDWBKg4NGkM0dcNYrGWpQCnc=s48-c-k-c0x00ffffff-no-rj" tvg-id="", Televisa Chihuahua
-https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
-
-#EXTINF:-1 group-title="Latino" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQ1uIxB2HJoa_GXZDWBKg4NGkM0dcNYrGWpQCnc=s48-c-k-c0x00ffffff-no-rj" tvg-id="", Televisa Chihuahua
-https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
-
-#EXTINF:-1 group-title="Latino" tvg-logo="https://yt3.ggpht.com/CQm37wy0J-Wv-qqG35DB6qA5LpL84sI2-skkAmMMUhh15YGj2t0LVurt4tJ0SV2dRGhomjF9mj8=s48-c-k-c0x00ffffff-no-rj" tvg-id="", adn40Mx
-https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
-
-#EXTINF:-1 group-title="Latino" tvg-logo="https://yt3.ggpht.com/CQm37wy0J-Wv-qqG35DB6qA5LpL84sI2-skkAmMMUhh15YGj2t0LVurt4tJ0SV2dRGhomjF9mj8=s48-c-k-c0x00ffffff-no-rj" tvg-id="", adn40Mx
-https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
-
-#EXTINF:-1 group-title="Latino" tvg-logo="https://yt3.ggpht.com/Ehgzljg8T8lsiCG4M6CjOp-G1P7nizvlRKNaDd_rqEnAYn3nG5jbNHXQ7ljcjvDvXjojGC6Lyw=s48-c-k-c0x00ffffff-no-rj" tvg-id="", A24 EN VIVO
-https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
-
-#EXTINF:-1 group-title="Latino" tvg-logo="https://yt3.ggpht.com/Ehgzljg8T8lsiCG4M6CjOp-G1P7nizvlRKNaDd_rqEnAYn3nG5jbNHXQ7ljcjvDvXjojGC6Lyw=s48-c-k-c0x00ffffff-no-rj" tvg-id="", A24 EN VIVO
-https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
-
-#EXTINF:-1 group-title="Latino" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRERBuPkFPaRW9EJw4ZrRn1TEma_SeL6wEaC01DIQ=s48-c-k-c0x00ffffff-no-rj" tvg-id="", EVTV MIAMI
-https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
-
-#EXTINF:-1 group-title="Latino" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLR145rKfGpilHm6vnQistpV7jPIdRvO53vQgryV=s48-c-k-c0x00ffffff-no-rj" tvg-id="", América TV AR
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1693825359/ei/72T1ZIWPEo_N8wTqxZ3AAg/ip/20.49.36.20/id/zcWXboTnous.3/source/yt_live_broadcast/requiressl/yes/tx/24388768/txs/24388767%2C24388768%2C24388769%2C24388770%2C24388771%2C24388772%2C24388773/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/spc/UWF9f3OxxN_gV9mNDc9BA4Tkg4O4BpeMKwCxjiMY4Q/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgd0VR9NHM2tr4f1QI1zkxgh9SEY-qnD7Z5ErB8BtjakMCICSilNmA21c8Pl5jdPZ_GN5E1KT0YCcLXQGJq7jM5wbR/file/index.m3u8
-
-#EXTINF:-1 group-title="Latino" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLR145rKfGpilHm6vnQistpV7jPIdRvO53vQgryV=s48-c-k-c0x00ffffff-no-rj" tvg-id="", América TV AR
-https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
-
-#EXTINF:-1 group-title="Latino" tvg-logo="https://yt3.ggpht.com/rIS5OUwT2yc0-lL3-rrIS7ShEZtYlpOdfqxVPEvCI3MihqXWCYHbudhtIVFQ2txn0jJ2yioitaA=s48-c-k-c0x00ffffff-no-rj" tvg-id="", teleSUR tv
-https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
-
-#EXTINF:-1 group-title="Latino" tvg-logo="https://yt3.ggpht.com/rIS5OUwT2yc0-lL3-rrIS7ShEZtYlpOdfqxVPEvCI3MihqXWCYHbudhtIVFQ2txn0jJ2yioitaA=s48-c-k-c0x00ffffff-no-rj" tvg-id="", teleSUR tv
-https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
-
-#EXTINF:-1 group-title="Latino" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTqGg2bWg02R5un1pFAeuYDMGAVCmna52i__wapvw=s48-c-k-c0x00ffffff-no-rj" tvg-id="", C5N EN VIVO
-https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
-
-#EXTINF:-1 group-title="Latino" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTqGg2bWg02R5un1pFAeuYDMGAVCmna52i__wapvw=s48-c-k-c0x00ffffff-no-rj" tvg-id="", C5N EN VIVO
-https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
-
-#EXTINF:-1 group-title="Latino" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRCI6q817rqfqgWwRTc41umKpHzkwsvU7MnR6Vp=s48-c-k-c0x00ffffff-no-rj" tvg-id="", RTVE Noticias 24H
-https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
-
-#EXTINF:-1 group-title="Latino" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRCI6q817rqfqgWwRTc41umKpHzkwsvU7MnR6Vp=s48-c-k-c0x00ffffff-no-rj" tvg-id="", RTVE Noticias 24H
-https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
-
-#EXTINF:-1 group-title="Latino" tvg-logo="https://yt3.ggpht.com/kg5vrdz7shjKha3N3I7ed5MhzGv3_LwVfNj1vtZfW9OFSGDArcvMD0wmtYhq9yLkkVuRCcuK6g=s48-c-k-c0x00ffffff-no-rj" tvg-id="", Canal 7 Mendoza AR
-https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
-
-#EXTINF:-1 group-title="Latino" tvg-logo="https://yt3.ggpht.com/kg5vrdz7shjKha3N3I7ed5MhzGv3_LwVfNj1vtZfW9OFSGDArcvMD0wmtYhq9yLkkVuRCcuK6g=s48-c-k-c0x00ffffff-no-rj" tvg-id="", Canal 7 Mendoza AR
-https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
-
-#EXTINF:-1 group-title="Latino" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQaYsAXWJNpiduF7CfZckAt76XcPWwTeM4qkKiI=s48-c-k-c0x00ffffff-no-rj" tvg-id="", IP Noticias AR
-https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
-
-#EXTINF:-1 group-title="Latino" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQaYsAXWJNpiduF7CfZckAt76XcPWwTeM4qkKiI=s48-c-k-c0x00ffffff-no-rj" tvg-id="", IP Noticias AR
-https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
-
-#EXTINF:-1 group-title="Latino" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLT0U_dCP85t0azgdKSZ93Ihj8DB0wFyuSFEdaLVoQ=s48-c-k-c0x00ffffff-no-rj" tvg-id="", Globovisión En Vivo Ve
-https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
-
-#EXTINF:-1 group-title="Latino" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLT0U_dCP85t0azgdKSZ93Ihj8DB0wFyuSFEdaLVoQ=s48-c-k-c0x00ffffff-no-rj" tvg-id="", Globovisión En Vivo Ve
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1693825368/ei/-GT1ZNyDH8zO8wTn_bDwCw/ip/20.49.36.20/id/fncwrovqtlU.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f7FqNQLqcuLmATUys1hrg1jHAAZZhsvFkoo27A/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgMvL-JJXNJXwQNGCu5BwuPKk4jL7lRDJxE7tZCI_NzTsCIB1dWRLzaTbA_YwPEZWDAcG7SAt_6wMuBs-c80wjfFu5/file/index.m3u8
-
-#EXTINF:-1 group-title="Latino" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSGmuv3Vu4E-LGg0gSA0c8y-FKrgQYiVNm9s9M5xg=s48-c-k-c0x00ffffff-no-rj" tvg-id="", La señal de RT en español
-https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
-
-#EXTINF:-1 group-title="Latino" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSGmuv3Vu4E-LGg0gSA0c8y-FKrgQYiVNm9s9M5xg=s48-c-k-c0x00ffffff-no-rj" tvg-id="", La señal de RT en español
-https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
-
-#EXTINF:-1 group-title="Latino" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRYf1nW2VgLujMtwYTEHsTOcAzAwfYCpXUj5nkY2A=s48-c-k-c0x00ffffff-no-rj" tvg-id="", ImagenTV
-https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
-
-#EXTINF:-1 group-title="Latino" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRYf1nW2VgLujMtwYTEHsTOcAzAwfYCpXUj5nkY2A=s48-c-k-c0x00ffffff-no-rj" tvg-id="", ImagenTV
-https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
-
-#EXTINF:-1 group-title="Latino" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTbW5WIr_RBAoc56f9X50u_Uh49fe_Nia7BPMiwHA=s48-c-k-c0x00ffffff-no-rj" tvg-id="", Al Rojo Vivo
-https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
-
-#EXTINF:-1 group-title="Latino" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTbW5WIr_RBAoc56f9X50u_Uh49fe_Nia7BPMiwHA=s48-c-k-c0x00ffffff-no-rj" tvg-id="", Al Rojo Vivo
-https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
-
-#EXTINF:-1 group-title="English" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQ__xmHE2FKKyWgYQo9rLEEHLXFM9RiVInShcBmVgE=s48-c-k-c0x00ffffff-no-rj" tvg-id="", TODAY All Day
-https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
-
-#EXTINF:-1 group-title="English" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQ__xmHE2FKKyWgYQo9rLEEHLXFM9RiVInShcBmVgE=s48-c-k-c0x00ffffff-no-rj" tvg-id="", TODAY All Day
-https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
-
-#EXTINF:-1 group-title="English" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTudu_HKuJ1SM8801XsJ6XHm4RlHscIobOvmhYWYKk=s48-c-k-c0x00ffffff-no-rj" tvg-id="", NBC News NOW
-https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
-
-#EXTINF:-1 group-title="English" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTudu_HKuJ1SM8801XsJ6XHm4RlHscIobOvmhYWYKk=s48-c-k-c0x00ffffff-no-rj" tvg-id="", NBC News NOW
-https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
-
-#EXTINF:-1 group-title="English" tvg-logo="https://yt3.ggpht.com/Iv4QbKjK63MB70UvQ22FnTWF8KN3-2qZ2FqeFDiI-HVmidR7GJKo6UrVSwR6vsyHvmdm1pfirrg=s48-c-k-c0x00ffffff-no-rj" tvg-id="", ABC News Live
-https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
-
-#EXTINF:-1 group-title="English" tvg-logo="https://yt3.ggpht.com/Iv4QbKjK63MB70UvQ22FnTWF8KN3-2qZ2FqeFDiI-HVmidR7GJKo6UrVSwR6vsyHvmdm1pfirrg=s48-c-k-c0x00ffffff-no-rj" tvg-id="", ABC News Live
-https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
-
-#EXTINF:-1 group-title="English" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLS2SZUR3w8r974zTHsQ9c-b8ob7n6X9cutfzr_wVmw=s48-c-k-c0x00ffffff-no-rj" tvg-id="", Reuters
-https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
-
-#EXTINF:-1 group-title="English" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLS2SZUR3w8r974zTHsQ9c-b8ob7n6X9cutfzr_wVmw=s48-c-k-c0x00ffffff-no-rj" tvg-id="", Reuters
-https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
-
-#EXTINF:-1 group-title="English" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQnL8g28tnBbF39_E-YoqDVXYRmZGXzaz01GoIbmw=s48-c-k-c0x00ffffff-no-rj" tvg-id="", RT UK News
-https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
-
-#EXTINF:-1 group-title="English" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSWUC1XEN9_RtfZ6mUX_oN3jo1UuB-KU3tweyxPLb4=s48-c-k-c0x00ffffff-no-rj" tvg-id="", Al Jazeera English
-https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
-
-#EXTINF:-1 group-title="English" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSWUC1XEN9_RtfZ6mUX_oN3jo1UuB-KU3tweyxPLb4=s48-c-k-c0x00ffffff-no-rj" tvg-id="", Al Jazeera English
-https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
-
-#EXTINF:-1 group-title="English" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQuzkdeUxIhS3KWZrYcDf4F8k2VC6SHZt2HlyzCM_c=s176-c-k-c0x00ffffff-no-rj" tvg-id="", Al Jazeera English
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1693825382/ei/BmX1ZKuGEMGc8wSd0aDwDg/ip/20.49.36.20/id/gCNeDWCI0vo.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f3lKi0XbLdyfPg20_Sz4Y2ldhIhMv6jEm1T8vw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C51000023/beids/24350017/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgPbv3Y4Msq0P2ehPZJVo9M7vr9qsSHbgOxHvugUqXzhACIAa2INqx9y7-mMGskMe4EzaNq93sl2_yCaCaXlH8zh2U/file/index.m3u8
-
-#EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/mOlz491.png" tvg-id="", News 12 New York
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1693825382/ei/BmX1ZODmNa6m_9EPt7KX6AE/ip/20.49.36.20/id/LsWXVfndV8g.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f3I_LRF9z2p3u1A_1qkVcR_imB_jMr2_n9GCXA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C24362685/beids/24350017/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAJVkKxbKV1q_9sOhFcw_5kpAsisN6D6AwL7LKjjuy4DhAiAb-5yvru4kvuf4lquXADaPHiDBkute6Kf6FCs6OxF-oA%3D%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/s3JUNqT.jpg" tvg-id="", LiveNOW from FOX
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1693825383/ei/B2X1ZJ7dFI2o_9EPrbCOwAs/ip/20.49.36.20/id/p0KtVMnDjOk.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f3Nn1Uigqj2nOYtAhgVqclGMf_9UZEI6ta2hVQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgDGLB0ZzYmrmZfk9eLGK7aoHkhovdTQchPxAw_uSdXuICID-OEUV89LSj1oZnaCs5UsTrtPh_ejf8sDCe3X-TitER/file/index.m3u8
-
-#EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/8OCSD9V.png" tvg-id="", ABC News (Australia)
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1693825383/ei/B2X1ZOv8L-ym_9EP5py--Ag/ip/20.49.36.20/id/vOTiJkg1voo.6/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/spc/UWF9f6UBkxKgcg6y36C8kU0-6Og2rLhLOgpS8KDi5w/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C51000024/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAKIuddvxe9e5oZ3IMV9k2pUnEH4GG9F0Kx0bPYQtO77rAiAtgX9S50a8TdgfitdGb57G6VEpE-WpHMBY3jaebjutgg%3D%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/y5kZk6K.png" tvg-id="", ANews
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1693825384/ei/CGX1ZLmpEI3h8wSM6q6oCQ/ip/20.49.36.20/id/mMc_4NjTlx0.1/source/yt_live_broadcast/requiressl/yes/tx/24388770/txs/24388767%2C24388768%2C24388769%2C24388770%2C24388771%2C24388772%2C24388773/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f-ktwj3CLgbaeqLI5VB73TNs3zWySR0TGiDq5A/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAMBtnWykkVBGAJmYxLi5273cZ7Zbd1eJ6Vec0QudPyhmAiEAr98sP5n2CJk9jH5npjSqAw5lUW_xnnJxezSJqvo-hAE%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/KKoPfER.gif" tvg-id="", Newsmax TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1693825384/ei/CGX1ZNfBL8Pm8wSzmrHgCQ/ip/20.49.36.20/id/2NUVDFC0pws.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f_5OAtZDchNzlNGP5TAx7PEruZ87AptP7wU_0w/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAJiqzeAvqqZmD-TLxNStq-KMCbPDTSFaTgCvGf1Ts3trAiEApCChYVvDZB3ZNUCLyrlArr8TTfLiP6mAxOwbWgA_CvM%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/yDTnnhV.jpg" tvg-id="", NBC News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1693825385/ei/CWX1ZKDdEoTT8wTi46jwDQ/ip/20.49.36.20/id/OjWASfBfz50.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f1Xqr1f339tUXMQ8bd-llf7b070X1zxxHWaF3A/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350017/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAOa_dhlCp3tt-Ek9xD8BTs0yJJvszDA-ju6n6ISO0MQ2AiEAppwW7iOaenNxkfUIj68-eb_iIPolr9kHXJbBpc6kyHY%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/eHxuTsb.png" tvg-id="", TeleSUR English
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1693825385/ei/CWX1ZN31L6Kn_9EPvrCYuA8/ip/20.49.36.20/id/flh6U3FWfzY.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f-9dmWQTKqf68aZFtJdTYwDh2fwpMvxFF6bRbA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350017/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAM-DmHiOHmwnphZ96WweQxiojr2RckEZ3T1fRz_5k6EWAiBDuG6wbbqwOCwTHSd7NBm3m6n1uyWDGHQByG8JREpGHQ%3D%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="English" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLT7r1e0epwtoWbDZF-hoJ_XbzCSty6iU2OVzwTq=s88-c-k-c0x00ffffff-no-rj" tvg-id="", CGTN Europe
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1693825386/ei/CmX1ZJ2-Ds_h8wTt_4zQBQ/ip/20.49.36.20/id/v1iOc2SZ1JM.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fzKx6-TCZzZqfreU0tCSRTPgqk77RJ76pMNvdw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C24363391/beids/24350017/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAMBf8ghmpUkqDajWf72Co3FQ6MaAhxCKPHP7QFlAJCKCAiEAienhMcNQCUZGZcpemhpIeK9P32-ud36T5JcIDK8Tjzg%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="English" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSGYwgujx1VgMYEpdurTfh8NRmOehOXf16DeMKoDfw=s176-c-k-c0x00ffffff-no-rj" tvg-id="", DW News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1693825386/ei/CmX1ZP3RKcjj8wTPr7X4Bw/ip/20.49.36.20/id/pqabxBKzZ6M.141/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f8Cne39YUoK9MZTX3Vu3X_CtuGLcmo_REFOgGg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C51000011/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgEo5Eg_9IawHlzU90kEdvY44YXehc3Sf0pOnvbYuASNcCIDCAG3suPdd4jZeiSmq57jblLAHpXe85DA5BtW0r-XD4/file/index.m3u8
-
-#EXTINF:-1 group-title="English" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSGYwgujx1VgMYEpdurTfh8NRmOehOXf16DeMKoDfw=s176-c-k-c0x00ffffff-no-rj" tvg-id="", DW News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1693825387/ei/C2X1ZNfWCcGc8wSd0aDwDg/ip/20.49.36.20/id/pqabxBKzZ6M.141/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fzziLN3PvINerKSCESWdnz2Noh3pe4D4QN3Glg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgWwLee5-mVEl4uhpAZpNDotkd-s8WwcnYDy3jfxz4AiwCIQDP6_W9xOMjTD_r1tx53horGMFR0B2MBOCP0A3XE21iYQ%3D%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="English" tvg-logo="https://yt3.ggpht.com/E96qzkAoX81DQs7wqRHR4rNk1esa4quBPzda2QRzImlhoHOVgRdAN8o-S0Rb_hpygo_n4LdhwTE=s176-c-k-c0x00ffffff-no-rj" tvg-id="", Sky News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1693825387/ei/C2X1ZJ7mMaei_9EP57e4-As/ip/20.49.36.20/id/Wq15eF5vCbI.3/source/yt_live_broadcast/requiressl/yes/tx/24388768/txs/24388767%2C24388768%2C24388769%2C24388770%2C24388771%2C24388772%2C24388773/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/spc/UWF9f8XHFh5bmBEX3m-4ti0_eYnb_r2DA6tPPSjU3w/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C51000024/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAK6JFxDvPmTKC9MD1xHia34FnaQ2A2cO5dUHbbe3RoN3AiARUTotDOnhn_FGyWWFExOAqhHZ38UF6524uYXY5oO_9Q%3D%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="English" tvg-logo="https://yt3.ggpht.com/E96qzkAoX81DQs7wqRHR4rNk1esa4quBPzda2QRzImlhoHOVgRdAN8o-S0Rb_hpygo_n4LdhwTE=s176-c-k-c0x00ffffff-no-rj" tvg-id="", Sky News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1693825388/ei/DGX1ZMXLEOmh_9EP5fWViA8/ip/20.49.36.20/id/Wq15eF5vCbI.3/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/spc/UWF9fyqB2QKplmAUqEfOncC2y3Lza3Lv3EAt4EwBEA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C51000011/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAK6JByxoTEegRhNa2_eVunMVaz9C9XsqmpeK-d12EJLUAiBBaruRp96c9S_gqUIwo4NSOO540KkhdM5bHz9nSbnoLQ%3D%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="English" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTmW20Du3RIn5YTCud3cZUaCWDkh_XdJ3fNKf_r=s176-c-k-c0x00ffffff-no-rj" tvg-id="", GBNews
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1693825388/ei/DGX1ZJiRLozO8wS5xorYAw/ip/20.49.36.20/id/Xuz947RpJYY.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f6lX6Hhd3Yv8OygEherXcGAE-94l6d78LjpLvg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C24363392/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAIedTwUn5x1vceTm051CjWtle4c85TIvKWtayuQYus8SAiEAliGYRxcJSy7pGPTBNZo1V4Zd-T_4kIJnROz7_98MPf0%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="English" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSk5D756ht4xrcAMi0yNfIOgdyRcRVZT7KzbGwXZM8=s48-c-k-c0x00ffffff-no-rj" tvg-id="", TRT World
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1693825389/ei/DWX1ZJHHDZep_9EPqdWS0A8/ip/20.49.36.20/id/5VF4aor94gw.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f0ssrrcFGmQ_a-1LQ5GWPIF2nU1bTs7ua1rE1g/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C24363391/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAOt8CyWm0f5oINpLYlrvxYxNy1hGJcL-mabg_a68SwtjAiBqt892oDApUuVX_yYioEDKNpELlE52diyC2Wlt_C-vkw%3D%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="English" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQe87PzE1KZVID8x8B1E03SLLCPB9AhWQ2Lum2a0dU=s48-c-k-c0x00ffffff-no-rj" tvg-id="", Bloomberg Quicktake
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1693825389/ei/DWX1ZIXuLpHs8wSWnJ_YAw/ip/20.49.36.20/id/dp8PhLsUcFE.8/source/yt_live_broadcast/requiressl/yes/tx/24388772/txs/24388767%2C24388768%2C24388769%2C24388770%2C24388771%2C24388772%2C24388773/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fyDbWIvvu2o_gIroSiMO7RRnHz47-O-RL5fs1g/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAI5_hd1zF6l7Jmuu7vXY88_R_aAg1iyTEI7EvoW_pgwhAiEAmnn_ijgkmRzgJ5naK6muoSF4BUcuczMtkSDdkTz6V5k%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="English" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQe87PzE1KZVID8x8B1E03SLLCPB9AhWQ2Lum2a0dU=s48-c-k-c0x00ffffff-no-rj" tvg-id="", Bloomberg Quicktake
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1693825390/ei/DmX1ZLDADMOa8wTn54jYDQ/ip/20.49.36.20/id/dp8PhLsUcFE.8/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f61ORluWeKRb4NuXCtH8D9dRghEXafdaKCcg-Q/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C24363392/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAPwve7mCJ9GVtfT_RYpiJmcO4SLPXqI2V-uuThE5Dr5rAiEAq64MJ_wtzQpzZMDzSRqY627ns5Tr28iuW7JRbe8W4ko%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="English" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQe87PzE1KZVID8x8B1E03SLLCPB9AhWQ2Lum2a0dU=s48-c-k-c0x00ffffff-no-rj" tvg-id="", Bloomberg Quicktake Now
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1693825391/ei/DmX1ZP3HN92i_9EP_aiPwAo/ip/20.49.36.20/id/DxmDPrfinXY.4/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f4NasQu2x_U9Go-RHmTH9OTHpAbSQMpFquXQfA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C24363392/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgX9jJcHIJL2xvTeTzwLtD9h2fmjCoiQsf3yrAoeiL9wICIFTAMkQp4kxP1dojcmP8TCKBzg5oPiOPhVL3t7o4CMF4/file/index.m3u8
-
-#EXTINF:-1 group-title="English" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQbVFfYfijJ0VrwhRpN02LYgy8GGK2PGE-4wBZzOw=s48-c-k-c0x00ffffff-no-rj" tvg-id="", CNA
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1693825391/ei/D2X1ZIXcGoWk_9EPyaOauAI/ip/20.49.36.20/id/XWq5kBlakcQ.6/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fx87bBR9qQw8dZuudfW4LIaXiqejqL5DPEzqNA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C51000011/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAIsr7KoqGpaSwhRFqsA5ZdPXax47yZWvEvISGTmp1Vg_AiEAlq-VYDivZk-Kn--yCSQ9tt5Cz4_wry93rKhgb63iw5c%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/UH7Kllx.png" tvg-id="", ChuChu TV Nursery Rhymes
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1693825392/ei/D2X1ZK2yO8bq8wTxkL3QCQ/ip/20.49.36.20/id/f9WTRFXQpX8.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f0f3NdeQnjuzvGySMAvOuZ570L9zMz5oks49Cw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgUlD9rgi2p9a93VO7PQnG8JM9dmviQev6TYFzvw3RIssCIQDXsQsYHQeq0vQkY8aCsiBA_VBMszGIZyVm2jX-tK9qEQ%3D%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/IM6wFyI.png" tvg-id="", CoComelon Songs For Kids
-https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
-
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/Wout1zl.jpg" tvg-id="", Power Ranger Official
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1693825393/ei/EWX1ZO-HBL-i_9EPwIGV-As/ip/20.49.36.20/id/hO7hbdkiVos.1/source/yt_live_broadcast/requiressl/yes/tx/24388772/txs/24388767%2C24388768%2C24388769%2C24388770%2C24388771%2C24388772%2C24388773/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f5CI6tT9S7SraaPuuy-zazbxE2ynmdusqa5teg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C24362685/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAJunRlYhfGAthfJLIU0_F0srdCXNK0Q1St26F3JkOFtsAiEAjlD4S0H4l6_z_oiEOmDGy5LXntD-h95w8NpU4YcwqaE%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/OaKB27t.png" tvg-id="", WB Kids
-https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
-
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/vHpmWzh.png" tvg-id="", DC Kids
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1693825394/ei/EmX1ZM7NG5Cf8wTil7iwAQ/ip/20.49.36.20/id/puIKHX6b94g.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f27sP3GKoJofmn7W1tvBorHbUcO0iQgnkNE6Tg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAN5V4UsckAwYd1OAFt1LV3belTcPSIiowkrXOVV26FVrAiAgAPNRT89AbExWrSusM_3lPItmgIR_53mJ-PHfbXJcjw%3D%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/zuMiEE4.jpg" tvg-id="", Disney Junior
-https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
-
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/zuMiEE4.jpg" tvg-id="", Disney Junior
-https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
-
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/F95Xf1M.png" tvg-id="", PJ Masks Official
-https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
-
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/Xf48KB9.png" tvg-id="", Barbie
-https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
-
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/sDGYwUo.jpg" tvg-id="", Booba – Cartoon for Kids
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1693825397/ei/FGX1ZNiePM2k_9EP8PW-gAo/ip/20.49.36.20/id/TEQo6xWINBA.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fzMIBXYCsXYTpOeia8cUMdXQ7doKin1-OR3uHQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C24363392/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAMGIVPzxWKXuvLH4jKyNKD3gNZ1plnSPex3xDNQTuPoDAiEA7ycey7CFuERmmADCiZIdPtvyiF3wKBXpYlQWIah3R3E%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/LS9HqXf.png" tvg-id="", Thomas & Friends
-https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
-
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/5dKsnp0.jpg" tvg-id="", Moonbug Kids - Cartoons and Kids Songs
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1693825397/ei/FWX1ZIeMNI3h8wSM6q6oCQ/ip/20.49.36.20/id/BTRXfolvkZc.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fyzNUHQbg5jX7mH6EKDK-SVE7ZMgV0uYJZ5NyQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C51000023/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgG9_q9tAiZgrd0YcqB3uM16tzglb0kyqGQU2IPxo55iwCICeJymgzWEVEYjm2uvv1sVdDkboqeD9XuwkF5UndXboR/file/index.m3u8
-
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/5dKsnp0.jpg" tvg-id="", Moonbug Kids - Sing Along With Me!
-https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
-
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/OwjRrru.png" tvg-id="", Marvel HQ
-https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
-
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/bIVlPlo.png" tvg-id="", Nick Jr.
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1693825399/ei/F2X1ZPzuC7Kg_9EPoMqI4A4/ip/20.49.36.20/id/GIJNyX8tVdE.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/spc/UWF9fyyhH76nVRqimPVKP8VJuZJhY-xguwaZasTqog/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C24363392/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAO2qFEIm3ekQWuVygBoW_b4X3HPEDIKUT9n-Q11heQP8AiEAtQU4zzIpYrcOx4s_AE4gBfo9xESluWQ8TxfzYUPln5g%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/dtYOGod.png" tvg-id="", Blaze and the Monster Machines
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1693825399/ei/F2X1ZLf8LMOX8wTX3ZqQDQ/ip/20.49.36.20/id/caL1xsx4dpE.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/spc/UWF9f91NtG_ddYHBbPDPtixeOFHL_lw6LWUq6N090g/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C24362685/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAMy_KRVY3TaGwLHo1HDPekoSPt5BcBRGtyMJk6EuW7I4AiEAqbP__RKWYxBXoZHgYroYbBIJXJE6JjBVqyt-jHdZ8eE%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/FeJ2C19.png" tvg-id="", Nickelodeon
-https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
-
-#EXTINF:-1 group-title="Kids" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRtIgcjpDYco9mPxsc4npIOji1VJq4amEEIbX4cAQ=s48-c-k-c0x00ffffff-no-rj" tvg-id="", Dave And Ava
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1693825400/ei/GGX1ZJqrJq-h_9EPifemmA0/ip/20.49.36.20/id/QtXuawlIc3s.4/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fwnxu8yfg3Sc3p9hMIr0YUy5k2R0I8NhZlSiIA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAP6byxkKBHPzzyBpcNxxTnkapZuWyCLlRtjY4ZresBXQAiEA9SlVfpUZnX-2rKbgcAuNbTZc8MCLUrPx8-iEA2E9EHw%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Kids" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTbHfeRktrFC-4AJhmtM2Q75ZaGo1hve0tPlPf4PA=s48-c-k-c0x00ffffff-no-rj" tvg-id="", POCOYO
-https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
-
-#EXTINF:-1 group-title="Educational" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLR6vCt7w4mOtpfn7dGVmobtUEuwBJdvlvBXGTr_iw=s48-c-k-c0x00ffffff-no-rj" tvg-id="", English Class101
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1693825401/ei/GWX1ZLrjJKSl_9EPgYyJsA8/ip/20.49.36.20/id/f7Aumw-E9w8.6/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f4TKatUeSurd9nzogOVLRYbSr90UuupnUEBYCA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAMtfCHZncntE5EACQRSqnGR8o7fylrPl2aJumSfMg61PAiEAs7T3ECYy7YvBK8msNPQXLyk2taLbNBtnx3s-HBVGgPg%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Educational" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTaNnIZrEVNHk-OgfTRlO1n2aeAZ657f5FrG-5EaA=s48-c-k-c0x00ffffff-no-rj" tvg-id="", Simplilearn Official
-https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
-
-#EXTINF:-1 group-title="Tech" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSjGkE9ePuhHR_H-yGtk3qUaozxj-oG4mXLmal8Kw=s48-c-k-c0x00ffffff-no-rj" tvg-id="", TWiT Tech Podcast Network
-https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
-
-#EXTINF:-1 group-title="Tech" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSE1_NdQFLlH8GyMbNgPv3X6D7EogGQIuwIlqkJ=s88-c-k-c0x00ffffff-no-rj" tvg-id="", The Tech Guy
-https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
-
-#EXTINF:-1 group-title="Tech" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSCx7BcaD_DdhQWtoID4bDGk9cbw1mZjhp0jWfi=s48-c-k-c0x00ffffff-no-rj" tvg-id="", Security Now
-https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
-
-#EXTINF:-1 group-title="Tecnología" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTaqmmjJfeJkaEVRwWk0wv-x3pCPfQUOQHiW_MFwg=s88-c-k-c0x00ffffff-no-rj" tvg-id="", Franz tv
-https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
-
-#EXTINF:-1 group-title="Tecnología" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTXIVSLKBS-fpU2YeZvJzQVfPQgLnuhvxxeYLGy=s88-c-k-c0x00ffffff-no-rjj" tvg-id="", Ebm Informatica
-https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
-
-#EXTINF:-1 group-title="Tecnología" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTXIVSLKBS-fpU2YeZvJzQVfPQgLnuhvxxeYLGy=s88-c-k-c0x00ffffff-no-rjj" tvg-id="", Ebm Informatica
-https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
-
-#EXTINF:-1 group-title="Train" tvg-logo="https://yt3.ggpht.com/UOEO3Tl2RFnoD5H5m2tTOcDNpIbfszq5OPQBNroVHn90u0D6Ut-O8ZBwPC3EsDJkEwicnCVVHA=s48-c-k-c0x00ffffff-no-rj" tvg-id="", CABVIEWS from Norway
-https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
-
-#EXTINF:-1 group-title="Train" tvg-logo="https://yt3.ggpht.com/UOEO3Tl2RFnoD5H5m2tTOcDNpIbfszq5OPQBNroVHn90u0D6Ut-O8ZBwPC3EsDJkEwicnCVVHA=s48-c-k-c0x00ffffff-no-rj" tvg-id="", CABVIEWS from Norway
-https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
-
-#EXTINF:-1 group-title="Train" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTJglkmhs17R29Z00s8rPrBCuLPHyExWpBIJpyK7g=s48-c-k-c0x00ffffff-no-rj" tvg-id="", THAILAND LIVE
-https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
-
-#EXTINF:-1 group-title="Earthcam Live" tvg-logo="https://yt3.ggpht.com/D1bW3c7hxe9KVXWOzQ0asiHh7WNxh4IeIDRBsRS-dpmdZcuyzstFY_o397Fg4M7UtUaDZ6msYQ4=s48-c-k-c0x00ffffff-no-rj" tvg-id="", Live Kyiv Ukraine
-https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
-
-#EXTINF:-1 group-title="Earthcam Live" tvg-logo="https://yt3.ggpht.com/D1bW3c7hxe9KVXWOzQ0asiHh7WNxh4IeIDRBsRS-dpmdZcuyzstFY_o397Fg4M7UtUaDZ6msYQ4=s48-c-k-c0x00ffffff-no-rj" tvg-id="", Live Times Square in 4K
-https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
-
-#EXTINF:-1 group-title="Earthcam Live" tvg-logo="https://yt3.ggpht.com/D1bW3c7hxe9KVXWOzQ0asiHh7WNxh4IeIDRBsRS-dpmdZcuyzstFY_o397Fg4M7UtUaDZ6msYQ4=s48-c-k-c0x00ffffff-no-rj" tvg-id="", Mardi Gras Celebrations
-https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
-
-#EXTINF:-1 group-title="Space" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLT_Y0gPVmLG_5fqdHxgiVIcBiObFdRBVbmPYwbqbvY=s48-c-k-c0x00ffffff-no-rj" tvg-id="", NASA Live Official Stream of NASA TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1693825412/ei/JGX1ZJalMI3j8wSVhJX4Dg/ip/20.49.36.20/id/21X5lGlDOfg.7/source/yt_live_broadcast/requiressl/yes/tx/24388773/txs/24388767%2C24388768%2C24388769%2C24388770%2C24388771%2C24388772%2C24388773/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f-bBduDSlMoyo1kSPE0jsSBR8Q1bcoSZqPnu7w/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C24362685/beids/24350017/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAJQADVlRT1wc7StJllkQusI27qpkamblo8wMlmLwZ7yfAiB29czqFR-VJYDMOifcOuSGpadOvtNQA_8h_UkONJiMUA%3D%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Space" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLT_Y0gPVmLG_5fqdHxgiVIcBiObFdRBVbmPYwbqbvY=s48-c-k-c0x00ffffff-no-rj" tvg-id="", NASA Live Official Stream of NASA TV
-https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
-
-#EXTINF:-1 group-title="Ytshop" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLScL1Emq0NQBV1DRDejd2qSJUXqpBTq03oerIJR7t0=s48-c-k-c0x00ffffff-no-rj" tvg-id="", QVC Live Stream
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1693825414/ei/JWX1ZI_NOM6l_9EPza67yAE/ip/20.49.36.20/id/UqFzfqlb60g.5/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fwe21UQrUZyw1oB1Qb6-vsBX6zfTxWzW__rrGw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C51000022/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgW-OqPP8eCTXkcFytU_L6JYxgwobwTDdLVYdfQc3ZRjMCIG4EDtk9jgZjxuIs9gM3SW9QO_rT1FBMLpu3hZKcp1My/file/index.m3u8
-
-#EXTINF:-1 group-title="Ytshop" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLScL1Emq0NQBV1DRDejd2qSJUXqpBTq03oerIJR7t0=s48-c-k-c0x00ffffff-no-rj" tvg-id="", QVC 2 Live Stream
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1693825414/ei/JmX1ZIKIFuCi_9EPxPWToAI/ip/20.49.36.20/id/_v_wMS-uACE.9/source/yt_live_broadcast/requiressl/yes/tx/24388768/txs/24388767%2C24388768%2C24388769%2C24388770%2C24388771%2C24388772%2C24388773/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f-jyvdSLn-dJ-yLxtI3gbugQ_6ExMP2JwFS-lA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C51000011%2C51000024/beids/24350017/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAOSn_txwvCmbpJs93xyLj1HMNKilrUl_tLk6wGHjEgm-AiEAvdLVYVq01WAcw43VKxnp_EJf3aXoH97JQ_FUDOC-ek0%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Ytshop" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQ9gvWmuywv4Ugue9aiiGGxqi5r_plbVVpQShzPJQ=s48-c-k-c0x00ffffff-no-rj" tvg-id="", HSN Live Stream
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1693825414/ei/JmX1ZLKjM42o_9EPrbCOwAs/ip/20.49.36.20/id/1ph8qQnjXts.9/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f_-IBr-fKHEA8kWIyj--UIgwgcV42hNz6BT34Q/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C24363392/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAK2m8Q5r5GHIOiPqc6L7qyp6fqTNplbT7V-XnJkZYFuwAiEAndSEx4ufuDS_Yd0k55dOdm2cGZE5WU-VNfUSSifiOnE%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Ytshop" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQ9gvWmuywv4Ugue9aiiGGxqi5r_plbVVpQShzPJQ=s48-c-k-c0x00ffffff-no-rj" tvg-id="", HSN2 Live Stream
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1693825415/ei/J2X1ZKzMFcjs8wS9zaX4BQ/ip/20.49.36.20/id/q-BvtDrTnxc.4/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f-YfSZzRbOK-Yqb-NVXX5H9TLUpCcFawZZUcLA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C24363391/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgPVhl5per64a347IYybV3ifCtzatKeQr28tfL8AGxsnACIQCNAiwO7S2NTCcF0lS2phllggFcE_ykXm1pVoURkb-fqA%3D%3D/file/index.m3u8
+#EXTM3U
+#EXTINF:-1 channel-id="2.1" channel-number="2.1" tvg-name="WCBS-HD",2.1 WCBS-HD
+http://192.168.68.79:5004/auto/v2.1
+#EXTINF:-1 channel-id="2.2" channel-number="2.2" tvg-name="STARTTV",2.2 STARTTV
+http://192.168.68.79:5004/auto/v2.2
+#EXTINF:-1 channel-id="2.3" channel-number="2.3" tvg-name="DABL",2.3 DABL
+http://192.168.68.79:5004/auto/v2.3
+#EXTINF:-1 channel-id="2.4" channel-number="2.4" tvg-name="FAVE-TV",2.4 FAVE-TV
+http://192.168.68.79:5004/auto/v2.4
+#EXTINF:-1 channel-id="2.5" channel-number="2.5" tvg-name="CIRCLE",2.5 CIRCLE
+http://192.168.68.79:5004/auto/v2.5
+#EXTINF:-1 channel-id="4.1" channel-number="4.1" tvg-name="WNBC",4.1 WNBC
+http://192.168.68.79:5004/auto/v4.1
+#EXTINF:-1 channel-id="4.2" channel-number="4.2" tvg-name="COZI-TV",4.2 COZI-TV
+http://192.168.68.79:5004/auto/v4.2
+#EXTINF:-1 channel-id="4.3" channel-number="4.3" tvg-name="NBCLX",4.3 NBCLX
+http://192.168.68.79:5004/auto/v4.3
+#EXTINF:-1 channel-id="5.1" channel-number="5.1" tvg-name="WNYW",5.1 WNYW
+http://192.168.68.79:5004/auto/v5.1
+#EXTINF:-1 channel-id="5.2" channel-number="5.2" tvg-name="Movies!",5.2 Movies!
+http://192.168.68.79:5004/auto/v5.2
+#EXTINF:-1 channel-id="5.3" channel-number="5.3" tvg-name="Weather",5.3 Weather
+http://192.168.68.79:5004/auto/v5.3
+#EXTINF:-1 channel-id="5.4" channel-number="5.4" tvg-name="theGrio",5.4 theGrio
+http://192.168.68.79:5004/auto/v5.4
+#EXTINF:-1 channel-id="5.5" channel-number="5.5" tvg-name="Catchy",5.5 Catchy
+http://192.168.68.79:5004/auto/v5.5
+#EXTINF:-1 channel-id="7.1" channel-number="7.1" tvg-name="WABC-HD" group-title="Favorites",7.1 WABC-HD
+http://192.168.68.79:5004/auto/v7.1
+#EXTINF:-1 channel-id="7.2" channel-number="7.2" tvg-name="LOCLish",7.2 LOCLish
+http://192.168.68.79:5004/auto/v7.2
+#EXTINF:-1 channel-id="7.3" channel-number="7.3" tvg-name="ThisTV",7.3 ThisTV
+http://192.168.68.79:5004/auto/v7.3
+#EXTINF:-1 channel-id="7.4" channel-number="7.4" tvg-name="HSN",7.4 HSN
+http://192.168.68.79:5004/auto/v7.4
+#EXTINF:-1 channel-id="9.1" channel-number="9.1" tvg-name="WWOR-TV",9.1 WWOR-TV
+http://192.168.68.79:5004/auto/v9.1
+#EXTINF:-1 channel-id="9.3" channel-number="9.3" tvg-name="Buzzr",9.3 Buzzr
+http://192.168.68.79:5004/auto/v9.3
+#EXTINF:-1 channel-id="9.4" channel-number="9.4" tvg-name="Heroes",9.4 Heroes
+http://192.168.68.79:5004/auto/v9.4
+#EXTINF:-1 channel-id="11.1" channel-number="11.1" tvg-name="PIX11",11.1 PIX11
+http://192.168.68.79:5004/auto/v11.1
+#EXTINF:-1 channel-id="11.2" channel-number="11.2" tvg-name="Antenna",11.2 Antenna
+http://192.168.68.79:5004/auto/v11.2
+#EXTINF:-1 channel-id="11.3" channel-number="11.3" tvg-name="GritTv",11.3 GritTv
+http://192.168.68.79:5004/auto/v11.3
+#EXTINF:-1 channel-id="11.4" channel-number="11.4" tvg-name="RewTv",11.4 RewTv
+http://192.168.68.79:5004/auto/v11.4
+#EXTINF:-1 channel-id="11.5" channel-number="11.5" tvg-name="QVC",11.5 QVC
+http://192.168.68.79:5004/auto/v11.5
+#EXTINF:-1 channel-id="13.1" channel-number="13.1" tvg-name="WNET-HD",13.1 WNET-HD
+http://192.168.68.79:5004/auto/v13.1
+#EXTINF:-1 channel-id="13.2" channel-number="13.2" tvg-name="KIDS",13.2 KIDS
+http://192.168.68.79:5004/auto/v13.2
+#EXTINF:-1 channel-id="14.1" channel-number="14.1" tvg-name="WNDT-CD",14.1 WNDT-CD
+http://192.168.68.79:5004/auto/v14.1
+#EXTINF:-1 channel-id="18.1" channel-number="18.1" tvg-name="WHTV-LD",18.1 WHTV-LD
+http://192.168.68.79:5004/auto/v18.1
+#EXTINF:-1 channel-id="18.2" channel-number="18.2" tvg-name="Daystar",18.2 Daystar
+http://192.168.68.79:5004/auto/v18.2
+#EXTINF:-1 channel-id="18.3" channel-number="18.3" tvg-name="WHTV-3",18.3 WHTV-3
+http://192.168.68.79:5004/auto/v18.3
+#EXTINF:-1 channel-id="20.1" channel-number="20.1" tvg-name="Unknown",20.1 Unknown
+http://192.168.68.79:5004/auto/v20.1
+#EXTINF:-1 channel-id="20.2" channel-number="20.2" tvg-name="Unknown",20.2 Unknown
+http://192.168.68.79:5004/auto/v20.2
+#EXTINF:-1 channel-id="20.3" channel-number="20.3" tvg-name="Unknown",20.3 Unknown
+http://192.168.68.79:5004/auto/v20.3
+#EXTINF:-1 channel-id="21.1" channel-number="21.1" tvg-name="WLIW HD",21.1 WLIW HD
+http://192.168.68.79:5004/auto/v21.1
+#EXTINF:-1 channel-id="21.2" channel-number="21.2" tvg-name="Create",21.2 Create
+http://192.168.68.79:5004/auto/v21.2
+#EXTINF:-1 channel-id="21.3" channel-number="21.3" tvg-name="World",21.3 World
+http://192.168.68.79:5004/auto/v21.3
+#EXTINF:-1 channel-id="21.4" channel-number="21.4" tvg-name="AllArts",21.4 AllArts
+http://192.168.68.79:5004/auto/v21.4
+#EXTINF:-1 channel-id="25.1" channel-number="25.1" tvg-name="NYLIFE",25.1 NYLIFE
+http://192.168.68.79:5004/auto/v25.1
+#EXTINF:-1 channel-id="25.2" channel-number="25.2" tvg-name="NYGOV",25.2 NYGOV
+http://192.168.68.79:5004/auto/v25.2
+#EXTINF:-1 channel-id="25.3" channel-number="25.3" tvg-name="CUNY",25.3 CUNY
+http://192.168.68.79:5004/auto/v25.3
+#EXTINF:-1 channel-id="31.1" channel-number="31.1" tvg-name="ION" group-title="Favorites",31.1 ION
+http://192.168.68.79:5004/auto/v31.1
+#EXTINF:-1 channel-id="31.2" channel-number="31.2" tvg-name="Bounce",31.2 Bounce
+http://192.168.68.79:5004/auto/v31.2
+#EXTINF:-1 channel-id="31.3" channel-number="31.3" tvg-name="CourtTV",31.3 CourtTV
+http://192.168.68.79:5004/auto/v31.3
+#EXTINF:-1 channel-id="31.4" channel-number="31.4" tvg-name="Defy TV",31.4 Defy TV
+http://192.168.68.79:5004/auto/v31.4
+#EXTINF:-1 channel-id="31.5" channel-number="31.5" tvg-name="Laff",31.5 Laff
+http://192.168.68.79:5004/auto/v31.5
+#EXTINF:-1 channel-id="31.6" channel-number="31.6" tvg-name="SCRIPPS",31.6 SCRIPPS
+http://192.168.68.79:5004/auto/v31.6
+#EXTINF:-1 channel-id="31.7" channel-number="31.7" tvg-name="Jewelry",31.7 Jewelry
+http://192.168.68.79:5004/auto/v31.7
+#EXTINF:-1 channel-id="31.8" channel-number="31.8" tvg-name="QVC",31.8 QVC
+http://192.168.68.79:5004/auto/v31.8
+#EXTINF:-1 channel-id="41.1" channel-number="41.1" tvg-name="WXTV-DT",41.1 WXTV-DT
+http://192.168.68.79:5004/auto/v41.1
+#EXTINF:-1 channel-id="41.2" channel-number="41.2" tvg-name="Bounce",41.2 Bounce
+http://192.168.68.79:5004/auto/v41.2
+#EXTINF:-1 channel-id="41.3" channel-number="41.3" tvg-name="Twist",41.3 Twist
+http://192.168.68.79:5004/auto/v41.3
+#EXTINF:-1 channel-id="43.1" channel-number="43.1" tvg-name="STORY",43.1 STORY
+http://192.168.68.79:5004/auto/v43.1
+#EXTINF:-1 channel-id="43.2" channel-number="43.2" tvg-name="MeTV+",43.2 MeTV+
+http://192.168.68.79:5004/auto/v43.2
+#EXTINF:-1 channel-id="43.3" channel-number="43.3" tvg-name="MeTV",43.3 MeTV
+http://192.168.68.79:5004/auto/v43.3
+#EXTINF:-1 channel-id="43.8" channel-number="43.8" tvg-name="RETRO",43.8 RETRO
+http://192.168.68.79:5004/auto/v43.8
+#EXTINF:-1 channel-id="43.9" channel-number="43.9" tvg-name="HEART",43.9 HEART
+http://192.168.68.79:5004/auto/v43.9
+#EXTINF:-1 channel-id="43.12" channel-number="43.12" tvg-name="EMLW",43.12 EMLW
+http://192.168.68.79:5004/auto/v43.12
+#EXTINF:-1 channel-id="46.1" channel-number="46.1" tvg-name="WMBQ-CD",46.1 WMBQ-CD
+http://192.168.68.79:5004/auto/v46.1
+#EXTINF:-1 channel-id="47.1" channel-number="47.1" tvg-name="WNJU-HD",47.1 WNJU-HD
+http://192.168.68.79:5004/auto/v47.1
+#EXTINF:-1 channel-id="47.2" channel-number="47.2" tvg-name="TeleX",47.2 TeleX
+http://192.168.68.79:5004/auto/v47.2
+#EXTINF:-1 channel-id="48.1" channel-number="48.1" tvg-name="WRNN-HD",48.1 WRNN-HD
+http://192.168.68.79:5004/auto/v48.1
+#EXTINF:-1 channel-id="48.2" channel-number="48.2" tvg-name="SHOPLC",48.2 SHOPLC
+http://192.168.68.79:5004/auto/v48.2
+#EXTINF:-1 channel-id="48.3" channel-number="48.3" tvg-name="CHARGE",48.3 CHARGE
+http://192.168.68.79:5004/auto/v48.3
+#EXTINF:-1 channel-id="48.4" channel-number="48.4" tvg-name="QVC2",48.4 QVC2
+http://192.168.68.79:5004/auto/v48.4
+#EXTINF:-1 channel-id="49.1" channel-number="49.1" tvg-name="WEDW-1",49.1 WEDW-1
+http://192.168.68.79:5004/auto/v49.1
+#EXTINF:-1 channel-id="55.1" channel-number="55.1" tvg-name="WLNY-DT",55.1 WLNY-DT
+http://192.168.68.79:5004/auto/v55.1
+#EXTINF:-1 channel-id="55.2" channel-number="55.2" tvg-name="COMET",55.2 COMET
+http://192.168.68.79:5004/auto/v55.2
+#EXTINF:-1 channel-id="55.3" channel-number="55.3" tvg-name="Charge",55.3 Charge
+http://192.168.68.79:5004/auto/v55.3
+#EXTINF:-1 channel-id="55.4" channel-number="55.4" tvg-name="HSN",55.4 HSN
+http://192.168.68.79:5004/auto/v55.4
+#EXTINF:-1 channel-id="63.1" channel-number="63.1" tvg-name="WMBC-HD",63.1 WMBC-HD
+http://192.168.68.79:5004/auto/v63.1
+#EXTINF:-1 channel-id="63.2" channel-number="63.2" tvg-name="QUEST",63.2 QUEST
+http://192.168.68.79:5004/auto/v63.2
+#EXTINF:-1 channel-id="63.3" channel-number="63.3" tvg-name="WMBC-HD",63.3 WMBC-HD
+http://192.168.68.79:5004/auto/v63.3
+#EXTINF:-1 channel-id="63.4" channel-number="63.4" tvg-name="SinoVSN",63.4 SinoVSN
+http://192.168.68.79:5004/auto/v63.4
+#EXTINF:-1 channel-id="63.5" channel-number="63.5" tvg-name="NTDTV",63.5 NTDTV
+http://192.168.68.79:5004/auto/v63.5
+#EXTINF:-1 channel-id="63.6" channel-number="63.6" tvg-name="WMBC-HD",63.6 WMBC-HD
+http://192.168.68.79:5004/auto/v63.6
+#EXTINF:-1 channel-id="63.7" channel-number="63.7" tvg-name="ALIENTO",63.7 ALIENTO
+http://192.168.68.79:5004/auto/v63.7
+#EXTINF:-1 channel-id="63.8" channel-number="63.8" tvg-name="WDNJ",63.8 WDNJ
+http://192.168.68.79:5004/auto/v63.8
+#EXTINF:-1 channel-id="63.9" channel-number="63.9" tvg-name="KCBN",63.9 KCBN
+http://192.168.68.79:5004/auto/v63.9
+#EXTINF:-1 channel-id="67.1" channel-number="67.1" tvg-name="CRIME",67.1 CRIME
+http://192.168.68.79:5004/auto/v67.1
+#EXTINF:-1 channel-id="67.2" channel-number="67.2" tvg-name="WFUT-DT",67.2 WFUT-DT
+http://192.168.68.79:5004/auto/v67.2
+#EXTINF:-1 channel-id="67.3" channel-number="67.3" tvg-name="WXTV-DT",67.3 WXTV-DT
+http://192.168.68.79:5004/auto/v67.3
+#EXTINF:-1 channel-id="67.4" channel-number="67.4" tvg-name="GRIT",67.4 GRIT
+http://192.168.68.79:5004/auto/v67.4
+#EXTINF:-1 channel-id="67.5" channel-number="67.5" tvg-name="MYSTERY",67.5 MYSTERY
+http://192.168.68.79:5004/auto/v67.5
+#EXTINF:-1 channel-id="67.6" channel-number="67.6" tvg-name="ShopLC",67.6 ShopLC
+http://192.168.68.79:5004/auto/v67.6
+#EXTINF:-1 channel-id="68.1" channel-number="68.1" tvg-name="WFUT-DT",68.1 WFUT-DT
+http://192.168.68.79:5004/auto/v68.1
+#EXTINF:-1 channel-id="68.2" channel-number="68.2" tvg-name="CRIME",68.2 CRIME
+http://192.168.68.79:5004/auto/v68.2
+#EXTINF:-1 channel-id="68.3" channel-number="68.3" tvg-name="GetTV",68.3 GetTV
+http://192.168.68.79:5004/auto/v68.3
