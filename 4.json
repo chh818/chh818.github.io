@@ -4,7 +4,7 @@
   "lives":[{
     "name":"live",
     "type":0,
-    "url":"http://ftp6284928.host108.abeiyun.cn/live/live.txt",
+    "url":"aHR0cDovL2Z0cDYyODQ5MjguaG9zdDEwOC5hYmVpeXVuLmNuL2xpdmUvbGl2ZS50eHQ=",
     "playerType":1,
     "ua":"okhttp/3.12.13",
     "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
