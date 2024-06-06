@@ -7,7 +7,7 @@
 "spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1717572233059/fan.txt;md5;aa164c88dfaf62b98b44fc6086a77fef",
 "wallpaper":"https://深色壁纸.饭.eu.org/",
 "sites":[
-{"key":"豆豆","name":"重要更新！接口的top改com","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":0},
+{"key":"豆豆","name":"豆瓣","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":0},
 {"key":"玩偶","name":"👽玩偶哥哥┃4K弹幕","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":{"aliToken":"396cd49958b34c87a1fcadc9296e57cb","quarkCookie":"tvfan/cookie.txt","from":"4k|auto|fhd","siteUrl":"https://www.wogg.link/","danMu":"弹"}},
 {"key":"YGP","name":"🚀叨观荐影┃新片","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"changeable":0},
 {"key":"短剧","name":"🌈上头┃短剧","type":3,"api":"csp_Djuu","searchable":1,"quickSearch":1,"changeable":1},
