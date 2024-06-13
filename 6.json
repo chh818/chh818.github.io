@@ -7,7 +7,7 @@
 "spider":"https://gitee.com/okjack/okk/raw/master/okpng.txt;md5;fec1fb8e263140c897640b2eee0c3a3c",
 "wallpaper":"https://gitee.com/okjack/okk/raw/master/w1.jpg","logo":"https://gitee.com/okjack/okk/raw/master/ol.txt",
 "sites":[
-{"key":"豆瓣","name":"🤓公众号┃OK猫开发","type":3,"api":"csp_Douban","searchable":0,"changeable":1},
+{"key":"豆瓣","name":"豆瓣","type":3,"api":"csp_Douban","searchable":0,"changeable":1},
 {"key":"配置中心","name":"👨‍🍳‍配置┃中心","type":3,"api":"csp_Config","searchable":0,"changeable":0,"indexs":0,"style":{"type":"rect","ratio":1.43}},
 {"key":"天天弹幕版","name":"⛅️天天┃弹幕","type":3,"api":"csp_TianTian","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},
 "timeout":10},
