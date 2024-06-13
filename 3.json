@@ -1,13 +1,13 @@
 
-//      >>> 当前时间是：2024-06-06 22:01:27 <<<
+//      >>> 当前时间是：2024-06-13 16:39:33 <<<
 //  关注微信公众号【神秘的哥哥们】有惊喜哦！！！
 //  当前接口：http://tvbox.xn--4kq62z5rby2qupq9ub.xyz/
 
 {
-"spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1717600347015/wex.txt;md5;9444b0b28c5cb68ab4eaf35ac147de8e",
+"spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718180909261/wex.txt;md5;6622c38b0681db3f6636ed592fbe9b49",
 "wallpaper":"https://牛逼.王二小放牛娃.xyz/img.php","logo":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716818643045/wexfnw.gif",
 "sites":[
-{"key":"Douban","name":"🐮【王二小放牛娃温馨提醒:网络套路深，谨防割韭菜】🐮","type":3,"api":"csp_Douban","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitcode.net/wexfnw/wex/-/raw/master/douban.json"},
+{"key":"Douban","name":"豆瓣","type":3,"api":"csp_Douban","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitcode.net/wexfnw/wex/-/raw/master/douban.json"},
 {"key":"Doubana","name":"⬇️【阿里夸克先扫码】⬇️","type":3,"api":"csp_Douban","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitcode.net/wexfnw/wex/-/raw/master/douban.json"},
 {"key":"Wexconfig","name":"🐮配置┃中心🐮","type":3,"api":"csp_Wexconfig","searchable":0,"changeable":0,"indexs":0,"style":{"type":"rect","ratio":1.43}},
 {"key":"玩偶","name":"🥷玩偶┃网盘┃综合","type":3,"api":"csp_Wogg","searchable":1,"changeable":1},
@@ -15,7 +15,10 @@
 {"key":"Wexyingchao","name":"🦜鸟巢┃网盘┃综合","type":3,"api":"csp_Wexyingchao","searchable":1,"changeable":1},
 {"key":"Wexwanni","name":"🧑‍🏫玩你┃老哥┃阿里","type":3,"api":"csp_Wexwanni","searchable":1,"changeable":1},
 {"key":"賤賤","name":"📓賤片┃盒子┃P2P","type":3,"api":"csp_WexJianpian","searchable":1,"changeable":1},
+{"key":"Wexhuaruitv","name":"🌺花蕊┃影视┃App","type":3,"api":"csp_Wexhuaruitv","searchable":1,"changeable":1},
+{"key":"Wexjiazitv","name":"🥁甲子┃影视┃App","type":3,"api":"csp_Wexjiazitv","searchable":1,"changeable":1},
 {"key":"Wexxiongdiys","name":"👬基友┃影视┃App","type":3,"api":"csp_Wexxiongdiys","searchable":1,"changeable":1},
+{"key":"Wexyuyueys","name":"⛈️雨落┃影视┃App","type":3,"api":"csp_Wexyuyueys","searchable":1,"changeable":1},
 {"key":"南瓜","name":"🎃瓜瓜┃TV┃App","type":3,"api":"csp_WexNgys","searchable":1,"changeable":1},
 {"key":"Wexxpgtv","name":"🍎红富士┃TV┃App","type":3,"api":"csp_Wexxpgtv","searchable":1,"changeable":1},
 {"key":"Wexkukantv","name":"😁看呗┃TV┃App","type":3,"api":"csp_Wexkukantv","searchable":1,"changeable":1},
@@ -68,10 +71,6 @@
 {"key":"看球","name":"🌐88┃看球┃体育","type":3,"api":"csp_Kanqiu","searchable":1,"changeable":0,"style":{"type":"list"}},
 {"key":"企鹅体育xp","name":"🐧大鹅┃看球┃体育","type":3,"api":"csp_XPath","style":{"type":"list"},
 "searchable":0,"quickSearch":0,"changeable":0,"ext":"https://gitcode.net/wexfnw/wex/-/raw/master/qie.json"},
-{"key":"drpy_js_奇珍异兽","name":"🦄奇珍┃异兽┃直采","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/奇珍异兽.js"},
-{"key":"drpy_js_优酷","name":"🌱酷酷┃的腾┃直采","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/优酷.js"},
-{"key":"drpy_js_腾云驾雾","name":"☁️腾云┃驾雾┃直采","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/腾云驾雾.js"},
-{"key":"drpy_js_百忙无果","name":"🍑百忙┃无果┃直采","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/百忙无果.js"},
 {"key":"Wexciyuancheng","name":"🤡元城┃番剧","type":3,"api":"csp_Wexciyuancheng","searchable":1,"changeable":1},
 {"key":"Wexxifan","name":"🤡喜翻┃番剧","type":3,"api":"csp_Wexxifan","searchable":1,"changeable":1},
 {"key":"櫻花","name":"🤡櫻花┃动漫","type":3,"api":"csp_WexYing","searchable":1,"changeable":1},
@@ -90,9 +89,9 @@
 {"key":"push_agent","name":"推送","type":3,"api":"csp_Push","searchable":1,"changeable":0}
 ],
 "parses":[
-{"name":"王","type":1,"url":"http://43.136.176.188:91/api/?key=f99226916774bfa29c9af99b2c736fd9&url="},
-{"name":"二","type":1,"url":"http://119.91.123.253:2345/Api/yun.php?url="},
-{"name":"小","type":1,"url":"http://xxjx.qqwx.ren/?url="},
+{"name":"王","type":1,"url":"http://122.228.84.103:7777/api/?key=4Dk5tdayvY6NZufEMG&url="},
+{"name":"二","type":1,"url":"http://110.42.7.182:880/api/?key=7e84f07dc78fbb3406d64a1ab7d966b3&url="},
+{"name":"小","type":1,"url":"http://43.136.176.188:91/api/?key=4ef232e96172b0bda78d393c695fe7c4&url="},
 {"name":"帅","type":1,"url":"http://pan.qiaoji8.com/tvbox/neibu.php?url="}
 ],
 "doh":[
@@ -115,6 +114,7 @@
 ],
 "ads":["mozai.4gtv.tv","pv.vipwm.cc"],
 "lives":[
+{"name":"IPv6001","type":0,"url":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718114949789/tv.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"综合1","type":0,"url":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715581924111/live1.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"综合2","type":0,"url":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715581924675/live2.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"综合3","type":0,"url":"https://cc-im-kefu-cos.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/d4fe44c5-107c-4511-af02-aa08fb10dff7/2024-04-25/2024-04-25_17:22:21/1714036941087/98644330/wexiptv.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
