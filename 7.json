@@ -3,7 +3,7 @@
   "sites": [
     {
       "key": "php2_hmezy",
-      "name": "黑木耳",
+      "name": "黑木",
       "type": 4,
       "api": "https://t4.doube.eu.org/heimuer.php",
       "searchable": 1,
