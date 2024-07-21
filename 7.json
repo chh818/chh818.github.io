@@ -1,0 +1,24 @@
+{
+  "logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716545739254/fc1b89e152cd4aa28d295107cb6c56c9.gif",
+  "sites": [
+    {
+      "key": "php2_hmezy",
+      "name": "黑木耳",
+      "type": 4,
+      "api": "https://t4.doube.eu.org/heimuer.php",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+    {
+      "key": "php_huaweiba",
+      "name": "华为吧",
+      "type": 4,
+      "api": "https://t4.doube.eu.org/huaweiba.php",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+    }
+  ]
+}
