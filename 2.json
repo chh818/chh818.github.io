@@ -1,5 +1,5 @@
 {
- "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1721401423173/wex.txt;md5;295a6a4e4688c8da7cece2faa143f484",
+ "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1721829348062/wex.txt;md5;92199718aab3cd190e06960f560ad985",
   "wallpaper": "https://牛逼.王二小放牛娃.xyz/",
   "logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716818643045/wexfnw.gif",
   "sites": [
@@ -557,7 +557,7 @@
     },
 	{
       "key": "自定义",
-      "name": "🥇DIY┃播放🥇",
+      "name": "🥇全能┃DIY🥇",
       "type": 3,
       "api": "csp_Wexdiy",
       "searchable": 1,
@@ -565,6 +565,14 @@
 	  	  "style": {
         "type": "list"
         }
+    },
+    {
+      "key": "AList",
+      "name": "🥇Alist┃DIY🥇",
+      "type": 3,
+      "api": "csp_AList",
+      "searchable": 1,
+      "changeable": 0
     },
     {
       "key": "上方需用在线接口",
