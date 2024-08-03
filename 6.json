@@ -1,5 +1,5 @@
 {
-  "spider": "http://happy.xn--z7x900a.live/jar/PandaQ240724.jar;md5;ea583cfd8a62f4b92b22505c181794bb",
+  "spider": "http://happy.xn--z7x900a.live/jar/PandaQ240802.jar;md5;395fea455399bf720c4185264308ced0",
   "wallpaper": "http://我不是.肥猫.live/ppic/feimao.php",
   "logo":"http://我不是.肥猫.live/fatcat.jpg",
   "sites": [
@@ -42,10 +42,10 @@
       "api": "http://js.xn--z7x900a.com/js/ng_open.js"
     },
     {
-      "key": "csp_KmeiJu",
-      "name": "🌎┃美剧┃影视",
+      "key": "csp_J",
+      "name": "🌎┃饺子┃外剧",
       "type": 3,
-      "api": "csp_KmeiJu",
+      "api": "csp_Jiaozi",
       "playerType": 2
     },
     {
@@ -55,7 +55,8 @@
       "api": "csp_Xinsj",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "ext":"https://www.3ayy.com"
     },
     {
       "key": "csp_SuBaiBai",
@@ -83,17 +84,18 @@
       "playerType": 2
     },
     {
+      "key": "csp_Kanke",
+      "name": " 👀┃看客┃影视",
+      "type": 3,
+      "api": "csp_Kanke",
+      "playerType": 2
+    },
+    {
       "key": "csp_Ikan",
       "name": "💕┃爱看┃影视",
       "type": 3,
       "api": "csp_Ikan",
       "playerType": 2
-    },
-    {
-      "key": "csp_PTT",
-      "name": "🦨┃屁颠┃影视",
-      "type": 3,
-      "api": "csp_PTT"
     },
     {
       "key": "csp_Taozi",
@@ -123,13 +125,6 @@
       "type": 3,
       "playerType": "2",
       "api": "csp_Nkdy"
-    },
-    {
-      "key": "csp_Juqq",
-      "name": "⭕┃剧圈┃影视",
-      "type": 3,
-      "playerType": "2",
-      "api": "csp_Juqq"
     },
     {
       "key": "csp_LiteApple",
