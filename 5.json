@@ -1,14 +1,14 @@
-//      >>> 当前时间是：2026-06-18 10:26:35 <<<
+//      >>> 当前时间是：2026-08-10 21:37:28 <<<
 //     关注微信公众号【太太太硬了】有惊喜哦！！！
 
 //     当前接口：http://www.xn--sss604efuw.cc/tv
 {
-    "spider": "https://file.icve.com.cn/file_doc/213/397/357636F9E5ADD95F79FC7DE2E84A2517.jpg;md5;357636f9e5add95f79fc7de2e84a2517",
+    "spider": "https://zl.wpscdn.cn/2026/08/03/space_img/31c67f10-796e-4c4b-abe7-75fd4a527cc8.jpg;md5;9d90c83bc7504392dd02c2236f08713a",
     "wallpaper": "https://饭的动态壁纸.xxooo.cf/",
     "sites": [
         {
             "key": "点我切源",
-            "name": "去【太太太硬了】领取嘟嘟盘免费容量",
+            "name": "修复原创  厂长，新增无限线路(8月3更新)",
             "type": 3,
             "api": "csp_DouDouGuard",
             "indexs": 1,
@@ -69,33 +69,14 @@
         },
         {
             "key": "seed",
-            "name": "💡聚剧剧┃四盘",
+            "name": "💡聚剧┃四盘",
             "type": 3,
             "api": "csp_SeedhubGuard",
             "ext": "5++kwLhNYm9UrO9wh7Dl7eKamTee4s/5",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "indexs": 0,
-            "style": {
-                "type": "list"
-            }
-        },
-        {
-            "key": "ZPan",
-            "name": "🎈聚盘搜┃四盘",
-            "type": 3,
-            "api": "csp_S_zpsGuard",
-            "searchable": 1,
-            "quickSearch": 0,
-            "changeable": 0,
-            "ext": {
-                "siteUrl": "http://107.173.211.148/"
-            },
-            "indexs": 0,
-            "style": {
-                "type": "list"
-            }
+            "indexs": 0
         },
         {
             "key": "光影",
@@ -113,7 +94,7 @@
             "type": 3,
             "api": "csp_YCyzGuard",
             "timeout": 15,
-            "playerType": 1,
+            "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
@@ -144,6 +125,17 @@
             }
         },
         {
+            "key": "瓜子",
+            "name": "👀瓜子┃不卡",
+            "type": 3,
+            "api": "csp_AppgzGuard",
+            "timeout": 15,
+            "playerType": "2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
             "key": "比特",
             "name": "🍄比特┃不卡",
             "type": 3,
@@ -152,17 +144,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
-        },
-        {
-            "key": "荐片",
-            "name": "🥝荐片┃不卡",
-            "type": 3,
-            "api": "csp_JPJGuard",
-            "timeout": 10,
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0
         },
         {
             "key": "糯米",
@@ -211,12 +192,12 @@
             "key": "视界",
             "name": "🌸茉莉┃多线",
             "type": 3,
-            "api": "csp_AppSxGuard",
+            "api": "csp_App99Guard",
             "timeout": 10,
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "rfOb1uAWbkRHp7hdxprG9un3+TDC2t/rlTwlcMr+ChdbeV8Q9y9xsKxqfbtO0M05tGWcacFVm2c45jhyH6t1Rt6A6PjICGqxV+uN1uOqS2/x0Vp5J0Vfo8usQADpHg=="
+            "ext": "rfOX1voDIQhH8epBwtCFsuby/mmdmIu8kGlnJc+7VkMRLQ1K+jMy+KN1MKQe0MZ6tmGSO5oFzD8/vWwiSqEpFczDqLrdGT3iH6fZmryrFzKijwYkJUMctdztE0O4CsgYZdBu8XhZSwuhSqqllQz4AZMa1l0sT+1NrbhNIxHkrY0upiYSTLNqEaledgZikMCviOXWr3cPBP4COOeoGUyJSJrrybmUppnWGeDAOHhHOVUSXjwSb+QQvcJIT2lmrf1Bk68myGs7qOqc19tD/rnzf2WOb2MzJZqtURBmUFgaW6ea2dL8OPSpSeVAvaGCAnqwuUNGE9hHpK8jfOs0bLJRdkFLnijAn5Q+ofVM5hgGb8c="
         },
         {
             "key": "播客",
@@ -230,17 +211,6 @@
             "ext": "rfOb1uAWbkRHp7hdxprG9un3+SPC3Nbv1SI/b5LtAUhbYkFU/DFvsLBvd/oV3cA4uGiCZNFRz3ln6nh5Q+AgDZiM5KrCAiO7S7SVzv31EG78jVB4JEMNrMPzTgWqRZdMTdR1smBWWwru"
         },
         {
-            "key": "米陌",
-            "name": "👀米陌┃多线",
-            "type": 3,
-            "api": "csp_AppNoxGuard",
-            "timeout": 10,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "rfOK0+FRORAJ7epFjN2F7bP2pj/S2dv+12kxb9+pQQpHMwhf/DAv+ahpb/AK395yqCLHO95E22owqzUyRqJqWIyC7r+JSyPqCPuBxumlV3vunhcnNWtev8SxRwL2VYpMG5d0/TUVDE7mCv2zjQblQ8wz+UVUWDTwR2GS7sg9EpVHt2hIHOIxP/JOfx41qZOnwrLi/T1ZMKs9ZLjhUBrKbdac8P7cwYvGOKuQESIsCAZBDXQMZ/wXycxJI3t3jLYfuPU3mD54+aDQ5IAghbm+"
-        },
-        {
             "key": "剧圈",
             "name": "🐻剧圈┃多线",
             "type": 3,
@@ -250,6 +220,17 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "rfOX1voDIQhH8epBwpmIsuSluiuZl4+/lm1iJsy3HwNWMxpf9CY77fshI+kByoxy7DyPatUZ1jk0ty1p"
+        },
+        {
+            "key": "荐片",
+            "name": "🥝荐片┃多线",
+            "type": 3,
+            "api": "csp_JPJGuard",
+            "timeout": 10,
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0
         },
         {
             "key": "奥特",
@@ -328,7 +309,7 @@
             }
         },
         {
-            "key": "超全",
+            "key": "吃瓜",
             "name": "🏐吃瓜┃看球",
             "type": 3,
             "api": "csp_LiveGzGuard",
@@ -401,8 +382,8 @@
             "key": "虎牙js",
             "name": "🐯虎牙┃直播",
             "type": 3,
-            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/虎牙.js",
+            "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
+            "ext": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/虎牙.js",
             "style": {
                 "type": "rect",
                 "ratio": 1.755
@@ -430,27 +411,35 @@
             "changeable": 0
         },
         {
-            "key": "抠搜",
-            "name": "🍄抠抠┃搜搜",
+            "key": "ZPan",
+            "name": "🎈盘搜┃四盘",
             "type": 3,
-            "api": "csp_KkSsGuard",
+            "api": "csp_S_zpsGuard",
             "searchable": 1,
-            "quickSearch": 1,
+            "quickSearch": 0,
             "changeable": 0,
             "ext": {
-                "Cloud-drive": "tvfan/Cloud-drive.txt"
+                "siteUrl": "http://107.173.211.148/"
+            },
+            "indexs": 0,
+            "style": {
+                "type": "list"
             }
         },
         {
-            "key": "UC",
-            "name": "🌈优汐┃搜搜",
+            "key": "JPan",
+            "name": "🦋易搜┃四盘",
             "type": 3,
-            "api": "csp_UuSsGuard",
+            "api": "csp_S_zpsGuard",
             "searchable": 1,
-            "quickSearch": 1,
+            "quickSearch": 0,
             "changeable": 0,
             "ext": {
-                "Cloud-drive": "tvfan/Cloud-drive.txt"
+                "siteUrl": "https://so.252035.xyz/"
+            },
+            "indexs": 0,
+            "style": {
+                "type": "list"
             }
         },
         {
@@ -478,12 +467,25 @@
             }
         },
         {
-            "key": "push_agent",
-            "name": "🛴手机┃推送",
+            "key": "抠搜",
+            "name": "🍄抠抠┃搜搜",
             "type": 3,
-            "api": "csp_PushGuard",
-            "searchable": 0,
-            "quickSearch": 0,
+            "api": "csp_KkSsGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": {
+                "Cloud-drive": "tvfan/Cloud-drive.txt"
+            }
+        },
+        {
+            "key": "UC",
+            "name": "🌈优汐┃搜搜",
+            "type": 3,
+            "api": "csp_UuSsGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
             "ext": {
                 "Cloud-drive": "tvfan/Cloud-drive.txt"
             }
@@ -599,6 +601,17 @@
             }
         },
         {
+            "key": "push_agent",
+            "name": "🛴手机┃推送",
+            "type": 3,
+            "api": "csp_PushGuard",
+            "searchable": 0,
+            "quickSearch": 0,
+            "ext": {
+                "Cloud-drive": "tvfan/Cloud-drive.txt"
+            }
+        },
+        {
             "key": "cc",
             "name": "请勿信视频中任何广告",
             "type": 3,
@@ -626,7 +639,8 @@
     "logo": "https://bdcache1-f1.v3mh.com/image/25-12-16/6941612717007.gif",
     "hosts": [
         "img1.wsyzy.org=fan.cloudflare.182682.xyz",
-        "fiizvfck.top=fan.cloudflare.182682.xyz"
+        "fiizvfck.top=fan.cloudflare.182682.xyz",
+        "images.67c6c7a.com=fan.cloudflare.182682.xyz"
     ],
     "lives": [
         {
@@ -650,15 +664,9 @@
             "playerType": 2
         },
         {
-            "name": "世界杯",
-            "type": 0,
-            "url": "http://82.156.243.185:33389/fwc.m3u",
-            "playerType": 2
-        },
-        {
             "name": "虎牙一起看",
             "type": 0,
-            "url": "https://sub.ottiptv.cc/huyayqk.m3u",
+            "url": "https://file.icve.com.cn/file_doc/946/41/ECB0A5FBED1D8C4D4E049E95DB9F756F.m3u",
             "playerType": 2,
             "timeout": 10,
             "ua": "okHttp/Mod-1.5.0.0"
@@ -666,7 +674,7 @@
         {
             "name": "斗鱼一起看",
             "type": 0,
-            "url": "https://sub.ottiptv.cc/douyuyqk.m3u",
+            "url": "https://file.icve.com.cn/file_doc/254/346/3FB56B2C49DF92B3252352FBE5CD00F1.m3u",
             "playerType": 2,
             "timeout": 10,
             "ua": "okHttp/Mod-1.5.0.0"
@@ -674,7 +682,7 @@
         {
             "name": "B站直播",
             "type": 0,
-            "url": "https://sub.ottiptv.cc/bililive.m3u",
+            "url": "https://file.icve.com.cn/file_doc/220/1003/370FAE41BD301F89BA1FCD6FDB8D5BD6.m3u",
             "playerType": 2,
             "timeout": 10,
             "ua": "okHttp/Mod-1.5.0.0"
@@ -682,7 +690,7 @@
         {
             "name": "YY轮播",
             "type": 0,
-            "url": "https://sub.ottiptv.cc/yylunbo.m3u",
+            "url": "https://file.icve.com.cn/file_doc/178/700/2C9AF1F98DBC1523826C0CD4DA8D8947.m3u",
             "playerType": 2,
             "timeout": 10,
             "ua": "okHttp/Mod-1.5.0.0"
