@@ -29,6 +29,13 @@
       "changeable": 0
     },
     {
+      "key": "哔哩影视",
+      "name": "哔哩影视",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/哔哩影视.py",
+      "changeable": 0
+    },
+    {
       "name": "弹幕",
       "key": "弹幕豆瓣",
       "type": 3,
@@ -62,6 +69,12 @@
       "name": "红果.py",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/红果.py"
+    },
+    {
+      "key": "红果短剧",
+      "name": "红果短剧.py",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/红果短剧.py"
     },
     {
       "key": "星梦Asmr",
@@ -1427,10 +1440,28 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/黄果短剧.py"
     },
     {
-      "key": "黄豆短剧",
-      "name": "黄豆短剧.py｜🔞",
+      "key": "黄果优化",
+      "name": "黄果优化.py｜🔞",
       "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/黄豆短剧.py"
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/黄果优化.py"
+    },
+    {
+      "key": "Ai顶级涩图",
+      "name": "Ai顶级涩图.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/Ai顶级涩图.py"
+    },
+    {
+      "key": "勃士",
+      "name": "勃士.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/勃士.py"
+    },
+    {
+      "key": "风月阁",
+      "name": "风月阁.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/风月阁.py"
     },
     {
       "key": "采集聚合成人",
@@ -1605,8 +1636,12 @@
       "url": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/1.txt"
     },
    {
-      "name": "2",
+      "name": 2,
       "url": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/2.txt"
+    },
+   {
+      "name": "Twitch",
+      "url": "https://twitch.445569.xyz/live.m3u"
     }
   ],
   "ijk": [
