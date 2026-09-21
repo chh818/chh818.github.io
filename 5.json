@@ -1,14 +1,14 @@
-//      >>> 当前时间是：2026-09-04 16:23:50 <<<
+//      >>> 当前时间是：2026-09-21 20:38:06 <<<
 //     关注微信公众号【太太太硬了】有惊喜哦！！！
 
 //     当前接口：http://www.xn--sss604efuw.cc/tv
 {
-    "spider": "https://zl.wpscdn.cn/2026/08/25/space_img/e04925c9-bc41-4181-b3fb-6655891c8a0c.jpg;md5;608d621640f5ed5ae8c78158ca61bff7",
+    "spider": "https://file.icve.com.cn/file_doc/570/671/8E8A7C81F650553AA83AE2674C3F24B4.jpg;md5;8e8a7c81f650553aa83ae2674c3f24b4",
     "wallpaper": "https://饭的动态壁纸.xxooo.cf/",
     "sites": [
         {
             "key": "点我切源",
-            "name": "<8.25更新> 修复动漫  看球",
+            "name": "<9.18更新> 修复立播 奥特",
             "type": 3,
             "api": "csp_DouDouGuard",
             "indexs": 1,
@@ -675,14 +675,6 @@
             "name": "斗鱼一起看",
             "type": 0,
             "url": "https://sub.ottiptv.cc/douyuyqk.m3u",
-            "playerType": 2,
-            "timeout": 10,
-            "ua": "okHttp/Mod-1.5.0.0"
-        },
-        {
-            "name": "B站直播",
-            "type": 0,
-            "url": "https://file.icve.com.cn/file_doc/220/1003/370FAE41BD301F89BA1FCD6FDB8D5BD6.m3u",
             "playerType": 2,
             "timeout": 10,
             "ua": "okHttp/Mod-1.5.0.0"
