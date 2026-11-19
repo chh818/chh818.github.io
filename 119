@@ -1,7 +1,7 @@
-//      >>> 当前时间是：2026-10-18 14:33:18 <<<
-//     关注我们有惊喜哦！！！
+//  >>> 当前时间是：2026-11-19 14:47:58 <<<
+//  秋水导航【官网：www.qiushui.vip】！！！
+//  当前接口：https://raw.githubusercontent.com/dql521/Tvbox18/1caa93cdcc89bb4a932bcd5886ca48692cb6d42c/index.json
 
-//     当前接口：https://raw.githubusercontent.com/dql521/Tvbox18/1caa93cdcc89bb4a932bcd5886ca48692cb6d42c/index.json
 {
     "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/dql521/Tvbox18/main/jar/xyqxbpq.jar",
     "sites": [
@@ -384,7 +384,7 @@
         },
         {
             "key": "py_rolizxwnoble",
-            "name": "仓库[py]",
+            "name": "乱伦仓库[py]",
             "type": 3,
             "api": "https://gh-proxy.com/https://raw.githubusercontent.com/dql521/Tvbox18/main/js/ss/rolizxwnoble.py",
             "ext": ""
